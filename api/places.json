@@ -21,5 +21,41 @@
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
+    },
+    {
+        "placeId": "3",
+        "title": "Meenakshi Cinemas",
+        "tag": "Entertainment",
+        "isShopping": false,
+        "isPaid": true,
+        "distance": "Near 1km.",
+        "imgUrl": "https://content3.jdmagicbox.com/comp/chennai/62/044p7018762/catalogue/murugan-cinemas-ambattur-chennai-cinema-halls-67bf.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+    },
+    {
+        "placeId": "4",
+        "title": "Pleasant Park",
+        "tag": "Park",
+        "isShopping": false,
+        "isPaid": false,
+        "distance": "Near 3km.",
+        "imgUrl": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2019/08/parks-1566455734.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+    },
+    {
+        "placeId": "5",
+        "title": "Hotel Ayyaar Bhawan",
+        "tag": "Food",
+        "isShopping": false,
+        "isPaid": true,
+        "distance": "Near 500m",
+        "imgUrl": "https://www.avadiinfo.com/wp-content/uploads/2013/08/ayyar.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
     }
 ]
