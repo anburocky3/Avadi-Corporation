@@ -65,25 +65,22 @@
         "isShopping": false,
         "isPaid": true,
         "distance": "Near 3km",
-        "imgUrl": "",
+        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-o/03/d8/3c/45/s2-cinemas.jpg",
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
- },
-{       "placeId": "7",
+    },
+ {      "placeId": "7",
         "title": "Sri Vaishnavi Temple",
         "tag": "Devotion",
         "isShopping": false,
         "isPaid": false,
         "distance": "Near 2km",
-        "imgUrl": "",
+        "imgUrl": "http://murugan.org/pix/vaishnavi_gate.jpg",
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
- 
- 
- },
- 
+    },
  {
         "placeId": "8",
         "title": "Heavy Vehicles Factory",
@@ -91,11 +88,11 @@
         "isShopping": false,
         "isPaid": true,
         "distance": "Near 3km",
-        "imgUrl": "",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/T-72_Ajeya1.jpg/375px-T-72_Ajeya1.jpg",
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
- },
+    },
  {
        "placeId": "9",
         "title":"Reliance Trends",
@@ -108,7 +105,7 @@
         "lng": 65.451,
         "status": true
  
- },
+    },
  {
         "placeId": "10",
         "title": "Max Fashion",
@@ -120,7 +117,7 @@
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
- },
+    },
  {
         "placeId": "11",
         "title": "Ajeya Stadium",
@@ -132,9 +129,7 @@
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
-         
-         
- },
+   },
  {
         "placeId": "12",
         "title": "Selfie Point",
@@ -142,11 +137,11 @@
         "isShopping": false,
         "isPaid": false,
         "distance": "Near 500m",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAk6o9mPZTFATc4m5EMabv8qU0IySsed84Fw&usqp=CAU",
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
- }
+    },
  {
         "placeId": "13",
         "title": "Bheeshma Park",
@@ -154,11 +149,11 @@
         "isShopping": false,
         "isPaid": false,
         "distance": "Near 3km",
-        "imgUrl": "",
+        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/cd/b9/1e/caption.jpg",
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
- },
+   },
  {
         "placeId": "14",
         "title": "Elite Restaurant",
@@ -170,7 +165,7 @@
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
- },
+   },
  {
         "placeId": "15",
         "title": "Trinity Church",
@@ -178,7 +173,7 @@
         "isShopping": false,
         "isPaid": false,
         "distance": "Near 3km",
-        "imgUrl": "",
+        "imgUrl": "https://content3.jdmagicbox.com/comp/chennai/d6/044pxx44.xx44.180316122143.e6d6/catalogue/csi-trinity-church-avadi-chennai-churches-7ftnyebn87.jpg",
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
