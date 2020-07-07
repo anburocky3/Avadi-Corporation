@@ -1,0 +1,11 @@
+[
+    {
+      "areaId": 1,
+      "wardNo": 18,
+      "areaName": "TNHB AVADI",
+      "patientStatus": "DISCHARGED",
+      "containmentStart": "04, April - 2020",
+      "containmentEnd": "02, May - 2020",
+      "status": true
+    }
+  ]
