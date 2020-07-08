@@ -1,0 +1,137 @@
+[
+    {
+      "areaId": 1,
+      "wardNo": 18,
+      "areaName": "TNHB AVADI",
+      "patientStatus": "DISCHARGED",
+      "containmentStart": "04, April - 2020",
+      "containmentEnd": "02, May - 2020",
+      "status": true
+    },
+    {
+       "areaId": 2,
+       "wardNo": 18,
+       "areaName": "TNHB AVADI",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "10, April - 2020",
+       "containmentEnd": "08, May - 2020",
+       "status": true
+    },
+    {
+       "areaId": 3,
+       "wardNo": 18,
+       "areaName": "TNHB AVADI",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "10, April - 2020",
+       "containmentEnd": "08, May - 2020",
+       "status": true
+    },
+    {
+       "areaId": 4,
+       "wardNo": 18,
+       "areaName": "TNHB AVADI",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "15, April - 2020",
+       "containmentEnd": "13, May - 2020",
+       "status": true
+    },
+    {
+       "areaId": 5,
+       "wardNo": 17,
+       "areaName": "JB ESTATE",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "17, April - 2020",
+       "containmentEnd": "15, May - 2020",
+       "status": true
+    },
+    {
+       "areaId": 6,
+       "wardNo": 17,
+       "areaName": "JB ESTATE",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "17, April - 2020",
+       "containmentEnd": "15, May - 2020",
+       "status": true
+    },
+    {
+       "areaId": 7,
+       "wardNo": 17,
+       "areaName": "JB ESTATE",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "17, April - 2020",
+       "containmentEnd": "15, May - 2020",
+       "status": true
+    },
+    {
+       "areaId": 8,
+       "wardNo": 17,
+       "areaName": "JB ESTATE",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "17, April - 2020",
+       "containmentEnd": "15, May - 2020",
+       "status": true 
+    },
+    {
+       "areaId": 9,
+       "wardNo": 13,
+       "areaName": "THIRUMULLAIVOYAL",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "08, May - 2020",
+       "containmentEnd": "05, June - 2020",
+       "status": true
+    },
+    {
+       "areaId": 10,
+       "wardNo": 13,
+       "areaName": "THIRUMULLAIVOYAL",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "08, May - 2020",
+       "containmentEnd": "05, June - 2020",
+       "status": true
+    },
+    {
+       "areaId": 11,
+       "wardNo": 13,
+       "areaName": "THIRUMULLAIVOYAL",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "08, May - 2020",
+       "containmentEnd": "05, June - 2020",
+       "status": true
+    },
+    {
+       "areaId": 12,
+       "wardNo": 13,
+       "areaName": "THIRUMULLAIVOYAL",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "08, May - 2020",
+       "containmentEnd": "05, June - 2020",
+       "status": true
+    },
+    {
+       "areaId": 13,
+       "wardNo": 13,
+       "areaName": "THIRUMULLAIVOYAL",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "08, May - 2020",
+       "containmentEnd": "05, June - 2020",
+       "status": true
+    },
+    {
+       "areaId": 14,
+       "wardNo": 13,
+       "areaName": "THIRUMULLAIVOYAL",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "08, May - 2020",
+       "containmentEnd": "05, June - 2020",
+       "status": true
+    },
+    {
+       "areaId": 15,
+       "wardNo": 6,
+       "areaName": "S.M. NAGAR",
+       "patientStatus": "DISCHARGED",
+       "containmentStart": "08, May - 2020",
+       "containmentEnd": "05, June - 2020",
+       "status": true
+    }
+]
