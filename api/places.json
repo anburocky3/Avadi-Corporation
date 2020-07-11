@@ -76,7 +76,7 @@
         "isShopping": false,
         "isPaid": false,
         "distance": "Near 2km",
-        "imgUrl": "http://murugan.org/pix/vaishnavi_gate.jpg",
+        "imgUrl": "https://www.dreamstime.com/stock-image-hindu-temple-image1922731",
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
@@ -125,7 +125,7 @@
         "isShopping": false,
         "isPaid": false,
         "distance": "Near 3km",
-        "imgUrl": "https://cdn.pixabay.com/photo/2017/05/28/18/38/t-shirt-2351761__480.jpg",
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/11/29/07/06/bleachers-1867992__480.jpg",
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
