@@ -1,11 +1,6481 @@
-[
-    {
-      "areaId": 1,
-      "wardNo": 18,
-      "areaName": "TNHB AVADI",
+[{
+      "areaId": "1",
+      "wardNo": "18",
+      "areaName": "NO.102, TNHB AVADI",
       "patientStatus": "DISCHARGED",
-      "containmentStart": "04, April - 2020",
-      "containmentEnd": "02, May - 2020",
-      "status": true
-    }
-  ]
+      "start_on": "04-04-2020",
+      "end_on": "02-05-2020",
+      "status": "true"
+   },
+   {
+      "areaId": "2",
+      "wardNo": "18",
+      "areaName": "NO.102, TNHB AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "10-04-2020",
+      "end_on": "08-05-2020",
+      "status": "true"
+   },
+   {
+      "areaId": "3",
+      "wardNo": "18",
+      "areaName": "NO.102, TNHB AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "10-04-2020",
+      "end_on": "08-05-2020",
+      "status": "true"
+   },
+   {
+      "areaId": "4",
+      "wardNo": "18",
+      "areaName": "NO.102, TNHB, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "15-04-2020",
+      "end_on": "13-05-2020",
+      "status": "true"
+   },
+   {
+      "areaId": "5",
+      "wardNo": "17",
+      "areaName": "NO.182, PH ROAD, NEHRU STREET, JB ESTATE, AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "17-04-2020",
+      "end_on": "15-05-2020",
+      "status": "true"
+   },
+   {
+      "areaId": "6",
+      "wardNo": "17",
+      "areaName": "NO.182, PH ROAD, NEHRU STREET, JB ESTATE, AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "17-04-2020",
+      "end_on": "15-05-2020",
+      "status": "true"
+   },
+   {
+      "areaId": "7",
+      "wardNo": "17",
+      "areaName": "NO.182,  PH ROAD, NEHRU STREET, JB ESTATE, AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "17-04-2020",
+      "end_on": "15-05-2020",
+      "status": "true"
+   },
+   {
+      "areaId": "8",
+      "wardNo": "17",
+      "areaName": "NO.2/1, J.B.ESTATE, 24TH STREET, AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "17-04-2020",
+      "end_on": "15-05-2020",
+      "status": "true"
+   },
+   {
+      "areaId": "9",
+      "wardNo": "29",
+      "areaName": "NO.4, THULASI STREET, THIRUVALLUVAR NAGAR, KAMARAJ NAGAR, AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "4/24/20",
+      "end_on": "22-05-2020",
+      "status": "true"
+   },
+   {
+      "areaId": "10",
+      "wardNo": "6",
+      "areaName": "NO.66B, THIRUVALLUVAR STREET, NESAMANI NAGAR, THIRUMULLAIVOYAL, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "4/29/20",
+      "end_on": "5/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "11",
+      "wardNo": "17",
+      "areaName": "NO.19, NEHRU 2ND CROSS STREET, VASANTHAM NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "4/29/20",
+      "end_on": "5/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "12",
+      "wardNo": "17",
+      "areaName": "NO.15, 19TH STREET, JB ESTATE, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/4/20",
+      "end_on": "6/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "13",
+      "wardNo": "7",
+      "areaName": "NO.11/A, VENKATESHWARA NAGAR, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/4/20",
+      "end_on": "6/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "14",
+      "wardNo": "19",
+      "areaName": "84, ANNAMALAI NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/6/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "15",
+      "wardNo": "6",
+      "areaName": "NO.3, B BLOCK, S.M.NAGAR, POLICE QUARTERS, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/5/20",
+      "end_on": "6/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "16",
+      "wardNo": "6",
+      "areaName": "NO.38, NAGAMMAI NAGAR,POLICE QUARTERS, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/5/20",
+      "end_on": "6/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "17",
+      "wardNo": "47",
+      "areaName": "NO.41, NAVALAR STREET,KAKKANJI NAGAR,PATTABIRAM.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/6/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "18",
+      "wardNo": "47",
+      "areaName": "NO.41, NAVALAR STREET, KAKKANJI NAGAR, PATTABIRAM.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/6/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "19",
+      "wardNo": "12",
+      "areaName": "7 TH STREET EXTENSION, NETHAJI NAGAR CHOLAMBEDU.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/6/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "20",
+      "wardNo": "47",
+      "areaName": "NO.61, GANDHIADIGAL STREET, PATTABIRAM",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/6/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "21",
+      "wardNo": "11",
+      "areaName": "NO.3, A.B.RESIDENCY, JANSI RANI STREET, THIRUMULLAIVOYAL. CHENNAI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/6/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "22",
+      "wardNo": "14",
+      "areaName": "NO.17, 60 FEET ROAD, SIVASAKTHI NAGAR, ANNANUR, CHENNAI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "06.05.2020",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "23",
+      "wardNo": "7",
+      "areaName": "NO 15 2ND CROSS STREET,VENKATESHWARA NAGAR  TIRUMULLAIVOYAL AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "06.05.2020",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "24",
+      "wardNo": "21",
+      "areaName": "TSP AVADI RC POLICE TRAINING SCHOOL,AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "25",
+      "wardNo": "12",
+      "areaName": "NO56, ADIYAPATHAM STREET,CHOLAN NAGAR AVADI CHOLAMBEDU",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/7/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "26",
+      "wardNo": "17",
+      "areaName": "NO.15, 19TH STREET, JB ESTATE, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/7/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "27",
+      "wardNo": "17",
+      "areaName": "NO.15, 19TH STREET, JB ESTATE, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/7/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "28",
+      "wardNo": "17",
+      "areaName": "NO.15, 19TH STREET, JB ESTATE, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/7/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "29",
+      "wardNo": "18",
+      "areaName": "NO.339, CHINNAMMAN KOIL STREET, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/7/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "30",
+      "wardNo": "6",
+      "areaName": "No.83, S.M.NAGAR POLICE QUARTERS, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/7/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "31",
+      "wardNo": "6",
+      "areaName": "NO.75/16, 13TH BATTALION, S.M.NAGAR, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/7/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "32",
+      "wardNo": "6",
+      "areaName": "(35/M)TSP 12TH BATTALION, VAISHNAVI NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/7/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "33",
+      "wardNo": "13",
+      "areaName": "TN RESERVE POLICE, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/7/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "34",
+      "wardNo": "13",
+      "areaName": "NO:13, BATTALION, VAISHNAVI NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "35",
+      "wardNo": "21",
+      "areaName": "RC POLICE TRAINING CENTRE, AVADI.(CUDDALORE DIST.)",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "36",
+      "wardNo": "13",
+      "areaName": "VAISHNAVI NAGAR, THIRUMULLAIVOYAL(TIRUVANAMALAI DIST.)",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "37",
+      "wardNo": "13",
+      "areaName": "VAISHNAVI NAGAR, THIRUMULLAIVOYAL(TIRUVANAMALAI DIST.)",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "38",
+      "wardNo": "13",
+      "areaName": "VAISHNAVI NAGAR, THIRUMULLAIVOYAL(TIRUVANAMALAI DIST.)",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "39",
+      "wardNo": "13",
+      "areaName": "VAISHNAVI NAGAR, THIRUMULLAIVOYAL(TIRUVANAMALAI DIST.)",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "40",
+      "wardNo": "13",
+      "areaName": "TSP POLICE GROUP 5, VAISHNAVI NAGAR, THIRUMULLAIVOYAL.(TIRUVANAMALAI DIST.)",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "41",
+      "wardNo": "13",
+      "areaName": "TSP POLICE GROUP 5, VAISHNAVI NAGAR, THIRUMULLAIVOYAL.(TIRUVANAMALAI DIST.)",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "42",
+      "wardNo": "13",
+      "areaName": "13TH BATTILION, VAISHNAVI NAGAR, THIRUMULLAIVOYAL.(SHOLINGANALLUR)",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "43",
+      "wardNo": "21",
+      "areaName": "RC POLICE TRAINING CENTRE, AVADI.(CUDDALORE DIST.)",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "44",
+      "wardNo": "7",
+      "areaName": "NO.6, 1ST KAMARAJ NAGAR STREET, ETIYAMMAN NAGAR, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "45",
+      "wardNo": "4",
+      "areaName": "NO.13, VETHUMETTU STREET, KALAIGNAR NAGAR, KOVILPATHAGAI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "46",
+      "wardNo": "48",
+      "areaName": "NO.7, MOSQUE STREET, PERIYAR NAGAR, MUTHAPUDUPET.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "47",
+      "wardNo": "13",
+      "areaName": "13TH BATTILION, VAISHNAVI NAGAR, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "48",
+      "wardNo": "13",
+      "areaName": "13TH BATTILION, VAISHNAVI NAGAR, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "49",
+      "wardNo": "13",
+      "areaName": "13TH BATTILION, VAISHNAVI NAGAR, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "50",
+      "wardNo": "6",
+      "areaName": "63/3, KAVALAR KUDIYIRUPPU, S.M.NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "51",
+      "wardNo": "6",
+      "areaName": "NO.15, SM NAGAR,POLICE QUARTERS TIRUMULLAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "52",
+      "wardNo": "6",
+      "areaName": "NO.6 NAGAMMAI NAGAR POLICE QUARTERSTHIRUMULLAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "53",
+      "wardNo": "10",
+      "areaName": "SI OF POLICE NO.23 VOC NAGAR MAIN ROAD TIRUMULLAIVOYAL (CHOLEMBEDU)",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "54",
+      "wardNo": "13",
+      "areaName": "13TH BATTILION, VAISHNAVI NAGAR, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "55",
+      "wardNo": "13",
+      "areaName": "NO 37 NERHU STREET13TH BATTILION, VAISHNAVI NAGAR, THIRUMULLAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "56",
+      "wardNo": "13",
+      "areaName": "13TH BATTILION, VAISHNAVI NAGAR, THIRUMULLAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "57",
+      "wardNo": "13",
+      "areaName": "13TH BATTILION,VAISHNAVI NAGAR, THIRUMULLAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "58",
+      "wardNo": "13",
+      "areaName": "13TH BATTILION,VAISHNAVI NAGAR, THIRUMULLAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "59",
+      "wardNo": "12",
+      "areaName": "NO.49 S3,NETHAJI NAGAR 2ND STREET, THIRUMULLAIVOYAL (CHOLAMBEDU) ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "60",
+      "wardNo": "42",
+      "areaName": "NO.10, GANDHI STREET CHATHRAM PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "61",
+      "wardNo": "39",
+      "areaName": "NO.18A, MULLAINAGAR,PATTABIRAM",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "62",
+      "wardNo": "47",
+      "areaName": "NO.16, PERIYAR 2ND CROSS STREET, KAKKANJI NAGAR, PATTABIRAM.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "63",
+      "wardNo": "18",
+      "areaName": "NO.1683, TNHB, 4TH AVENUE,AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "64",
+      "wardNo": "26",
+      "areaName": "NO.2258, TNHB,AVADI CHENNAI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "09.05.2020",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "65",
+      "wardNo": "12",
+      "areaName": "ADIAPATHAM STREET, CHOLAN NAGAR, CHOLAMBEDU.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "66",
+      "wardNo": "12",
+      "areaName": "ADIAPATHAM STREET, CHOLAN NAGAR, CHOLAMBEDU.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "67",
+      "wardNo": "13",
+      "areaName": "BATALLION D COMPANY ,AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/9/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "68",
+      "wardNo": "6",
+      "areaName": "75/4, 13TH BATTILION, S.M. NAGAR, POLICE QUARTERS, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "69",
+      "wardNo": "24",
+      "areaName": "9/1, BAZAAR NAGAR, 5TH STREET, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "70",
+      "wardNo": "36",
+      "areaName": "NO.22, RAJIV GANDHI NAGAR, ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "71",
+      "wardNo": "13",
+      "areaName": "13TH BATTILION, VAISHNAVA NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "72",
+      "wardNo": "6",
+      "areaName": "NO.80, 8 S.M.NAGAR, MURUGAPPA POLYTECHNIC COLLEGE, POLICE QUARTERS, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "73",
+      "wardNo": "13",
+      "areaName": "13TH BATTILION, VAISHNAVI NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "74",
+      "wardNo": "13",
+      "areaName": "13TH BATTALION, VAISHNAVI NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "75",
+      "wardNo": "7",
+      "areaName": "NO.11, 3RD ANNA NAGAR STREET, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "76",
+      "wardNo": "29",
+      "areaName": "NO.82, 4TH STREET, KAMARAJAR NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "77",
+      "wardNo": "6",
+      "areaName": "80/24, S.M.NAGAR,POLICE QUARTERS, AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "78",
+      "wardNo": "13",
+      "areaName": "13TH BATTALLION, S.M.NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "79",
+      "wardNo": "13",
+      "areaName": "NO.TSP 13TH BATTALION, VAISHNAVI NAGAR, AVADI POLICE STATION.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/10/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "80",
+      "wardNo": "12",
+      "areaName": "NO.TSP RC, AVADIDARGA STREET, CHOLAN NAGAR, CHOLAMBEDU.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "81",
+      "wardNo": "39",
+      "areaName": "NO.1, RAM NAGAR, THENDRAL NAGAR EXTENSION, GOPALAPURAM, PATTABIRAM.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "82",
+      "wardNo": "39",
+      "areaName": "NO.1, RAM NAGAR, THENDRAL NAGAR, PATTABIRAM.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "83",
+      "wardNo": "4",
+      "areaName": "KALAIGNAR NAGAR, KOVILPATHAGAI.13TH BATTALION , AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "84",
+      "wardNo": "48",
+      "areaName": "NO.7, MOSQUE STREET, PERIYAR NAGAR, MUTHAPUDHUPET, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "85",
+      "wardNo": "48",
+      "areaName": "NO.1, KABILAR STREET, ICF COLONY, MUTHAPUDUPET, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "86",
+      "wardNo": "48",
+      "areaName": "NO.1, KABILAR STREET, ICF COLONY, MUTHAPUDUPET, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "87",
+      "wardNo": "4",
+      "areaName": "NO.13, NEW METTU STREET, KOVIL PATHAGAI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "88",
+      "wardNo": "4",
+      "areaName": "NO.13, NEW METTU STREET, KALAIGNAR NAGAR, KOVILPATHAGAI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "89",
+      "wardNo": "6",
+      "areaName": "13TH BATTALLION, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "90",
+      "wardNo": "7",
+      "areaName": "NO.6, KAMARAJAR STREET,ETTIYAMMAN NAGAR, ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "91",
+      "wardNo": "7",
+      "areaName": "NO.6, KAMARAJAR STREET,ETTIYAMMAN NAGAR, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "92",
+      "wardNo": "7",
+      "areaName": "NO.6, KAMARAJAR STREET,ETTIYAMMAN NAGAR, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "93",
+      "wardNo": "7",
+      "areaName": "NO.6, KAMARAJAR STREET,ETTIYAMMAN NAGAR, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "94",
+      "wardNo": "6",
+      "areaName": "13TH BATTALLION, S.M.NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "95",
+      "wardNo": "13",
+      "areaName": "13TH BATTALION,S.M.NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "96",
+      "wardNo": "19",
+      "areaName": "NO.24, KALLUKADAI STREET, GOWRIPETTAI,AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "97",
+      "wardNo": "19",
+      "areaName": "NO.24, GOWRIPETTAI,AVADI.",
+      "patientStatus": "DEATH       ",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "98",
+      "wardNo": "19",
+      "areaName": "NO.24, GOWRIPETTAI,AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "99",
+      "wardNo": "18",
+      "areaName": "1683, TNHB, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "100",
+      "wardNo": "29",
+      "areaName": "NO.42BHARATHI STREET, KAMARAJA NAGAR, AVADI. ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "101",
+      "wardNo": "17",
+      "areaName": "NO.24, 2ND STREET, GOVARTHANAGIRI,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "102",
+      "wardNo": "9",
+      "areaName": "NO.40, 2ND INDRANAGAR, AMBATTUR.AVADI - 62. ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "25.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "103",
+      "wardNo": "13",
+      "areaName": "NO:TSP, 13TH BATTALION,VAISHNAVI NAGAR, THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/11/20",
+      "end_on": "5/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "104",
+      "wardNo": "29",
+      "areaName": "NO.42, BHARATHI STREET,  KAMARAJA NAGAR AVADI. CHENNAI - 71",
+      "patientStatus": "DISCHARGED",
+      "start_on": "12.05.2020",
+      "end_on": "26.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "105",
+      "wardNo": "48",
+      "areaName": "NO.7, MASUTHI STREET, PERIYAR NAGAR, MUTHAPUDUPET.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "12.05.2020",
+      "end_on": "12.05.2020",
+      "status": "true"
+   },
+   {
+      "areaId": "106",
+      "wardNo": "46",
+      "areaName": "NO.50, ANNA STREET, PATTABIRAM.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "12.05.2020",
+      "end_on": "5/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "107",
+      "wardNo": "39",
+      "areaName": "NO.57, SOUTH BAZAAR, THANDURAI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "12.05.2020",
+      "end_on": "5/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "108",
+      "wardNo": "36",
+      "areaName": "NO.40, ANNAI SATHYAKUMAR, ANNA NAGAR, PATTABIRAM.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "12.05.2020",
+      "end_on": "5/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "109",
+      "wardNo": "19",
+      "areaName": "NO.24, KALLUKADAI STREET, GOWRIPETTAI, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "12.05.2020",
+      "end_on": "5/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "110",
+      "wardNo": "19",
+      "areaName": "NO.24, KALLUKADAI STREET, GOWRIPETTAI, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "12.05.2020",
+      "end_on": "5/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "111",
+      "wardNo": "19",
+      "areaName": "NO.24, KALLUKADAI STREET, GOWRIPETTAI, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "12.05.2020",
+      "end_on": "5/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "112",
+      "wardNo": "24",
+      "areaName": "NO.9 BAZAR STREET 5 TH STREET,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "12.05.2020",
+      "end_on": "5/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "113",
+      "wardNo": "13",
+      "areaName": "5TH BATTALION, TSP RCAVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "12.05.2020",
+      "end_on": "5/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "114",
+      "wardNo": "13",
+      "areaName": "RC, TSP, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "12.05.2020",
+      "end_on": "5/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "115",
+      "wardNo": "29",
+      "areaName": "NO:42,BHARATHI STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/13/20",
+      "end_on": "5/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "116",
+      "wardNo": "17",
+      "areaName": "NO:11/12, 24TH STREET, 1ST CROSS,J.B.ESTATE,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/13/20",
+      "end_on": "5/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "117",
+      "wardNo": "15",
+      "areaName": "NO:4/24 BHARATHIYAR STREET,THANTHAI PERIYAR NAGAR,THIRUMULAIVOYIL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/13/20",
+      "end_on": "5/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "118",
+      "wardNo": "11",
+      "areaName": "NO:174,KAMARAJAR STREET, SENTHIL NAGAR, THIRUMULAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/13/20",
+      "end_on": "5/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "119",
+      "wardNo": "16",
+      "areaName": "NO:1,THARMARAJA KOVIL STREET,PARUTHIPATTU,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/13/20",
+      "end_on": "5/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "120",
+      "wardNo": "18",
+      "areaName": "TNHB, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/14/20",
+      "end_on": "5/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "121",
+      "wardNo": "33",
+      "areaName": "NO.2, VOC STREET, NANDHAVANA METTUR, AVADI.",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/14/20",
+      "end_on": "5/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "122",
+      "wardNo": "14",
+      "areaName": "NO.676 A, MARUTHI APARTMENT, 52ND STREET, SIVASAKTHI NAGAR, AVADI.",
+      "patientStatus": "DISCHARGED ",
+      "start_on": "5/14/20",
+      "end_on": "5/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "123",
+      "wardNo": "7",
+      "areaName": "NO.18A, VALLALAR 4TH STREET, THIRUMULLAIVOYAL.",
+      "patientStatus": "DISCHARGED ",
+      "start_on": "5/14/20",
+      "end_on": "5/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "124",
+      "wardNo": "9",
+      "areaName": "INDRA NAGAR, CHOLAPURAM, AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/14/20",
+      "end_on": "5/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "125",
+      "wardNo": "21",
+      "areaName": "MTSP RC,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "126",
+      "wardNo": "21",
+      "areaName": "TSP RC,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "127",
+      "wardNo": "15",
+      "areaName": "NO:7,7TH STREET,ANNAI SATHYA NAGAR THIRUMULAIVOYIL",
+      "patientStatus": "DEATH                      ",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "128",
+      "wardNo": "29",
+      "areaName": "NO:8,S.M STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "129",
+      "wardNo": "10",
+      "areaName": "NO:419,CHENNAI TO TIRUALLUR ROAD,NEAR HINDU COLLEGE,PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "130",
+      "wardNo": "10",
+      "areaName": "G.J MULTISPECIALITY HOSPITALNO:419,CHENNAI TO TIRUVALLUR ROAD,NEAR HINDU COLLEGE,PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "131",
+      "wardNo": "10",
+      "areaName": "G.J MULTISPECIALITY HOSPITALNO:419,CHENNAI TO TIRUALLUR ROAD,NEAR HINDU COLLEGE,PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "132",
+      "wardNo": "26",
+      "areaName": "MKC MULTISPECIALITY HOSP. NO:28, 10TH STREET, KAMRAJ NAGAR, NEAR RCM SCHOOL, AVADI",
+      "patientStatus": "DEATH                 ",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "133",
+      "wardNo": "22",
+      "areaName": "NO:8,PATEL STREET,GANDHI NAGAR,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "134",
+      "wardNo": "6",
+      "areaName": "BOAT CLUB  ROAD MARUDHAM COMPLEX RA PURAM /NOTIFIED TO SM NAGAR AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "135",
+      "wardNo": "10",
+      "areaName": "NO 1 VOC NAGAR 1 ST STREET CHOLEMBEDU MAIN ROAD TIRUMULLAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "136",
+      "wardNo": "10",
+      "areaName": "NO:8,S.M STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "137",
+      "wardNo": "10",
+      "areaName": "NO.1, VOC NAGAR 1 ST STREET CHOLEMBEDU MAIN ROAD TIRUMULLAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "138",
+      "wardNo": "10",
+      "areaName": "NO 1 VOC NAGAR 1 ST STREET CHOLEMBEDU MAIN ROAD TIRUMULLAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/15/20",
+      "end_on": "5/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "139",
+      "wardNo": "22",
+      "areaName": "NO:3, PATEL ROAD ,GANDHI NAGAR, AVADI  ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/16/20",
+      "end_on": "5/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "140",
+      "wardNo": "17",
+      "areaName": "NO:31,AISHWARYA GARDEN,LAKSHMI GARDEN,GOVARDAGIRI, AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/17/20",
+      "end_on": "5/31/20",
+      "status": "true"
+   },
+   {
+      "areaId": "141",
+      "wardNo": "8",
+      "areaName": "AMBEDAKAR NAGAR,THIRUMULAIVOYAL CHENNAI-62",
+      "patientStatus": "DEATH           ",
+      "start_on": "5/17/20",
+      "end_on": "5/31/20",
+      "status": "true"
+   },
+   {
+      "areaId": "142",
+      "wardNo": "2",
+      "areaName": "NO:25,PILLAIYAAR KOIL STREET,KANDIGAI,MITTANAMALLI,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/18/20",
+      "end_on": "6/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "143",
+      "wardNo": "31",
+      "areaName": "NO:16,BUDDHAR STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/19/20",
+      "end_on": "6/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "144",
+      "wardNo": "31",
+      "areaName": "NO:16,BUDDHAR STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/19/20",
+      "end_on": "6/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "145",
+      "wardNo": "31",
+      "areaName": "NO:16,BUDDHAR STREET,KAMARAJ NAGAR,AVADI  ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/20/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "146",
+      "wardNo": "31",
+      "areaName": "NO:16,BUDDHAR STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/20/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "147",
+      "wardNo": "16",
+      "areaName": "NO:K701,SHANTHA TOWERS,PARUTHIPATTU,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/20/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "148",
+      "wardNo": "16",
+      "areaName": "NO:K701,SHANTHA TOWERS,PARUTHIPATTU,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/20/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "149",
+      "wardNo": "8",
+      "areaName": "NO:2,2ND STREET,SRI LAKSHMI NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/20/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "150",
+      "wardNo": "6",
+      "areaName": "NO:94,NEW POLICE QUATERES , SM NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/20/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "151",
+      "wardNo": "6",
+      "areaName": "S M NAGAR POLICE QUATRES,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/20/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "152",
+      "wardNo": "8",
+      "areaName": "NO:2,2ND STREET,SRI LAKSHMI NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/20/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "153",
+      "wardNo": "15",
+      "areaName": "NO: 15,TNHB ROAD,JOTHI NAGAR,ANNANUR,AVADICHENNIAI-62  ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/20/20",
+      "end_on": "6/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "154",
+      "wardNo": "8",
+      "areaName": "NO:91,MOORTHY STREET,AMBEDKAR NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/21/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "155",
+      "wardNo": "12",
+      "areaName": "NO:10,20TH BLOCK,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/21/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "156",
+      "wardNo": "48",
+      "areaName": "NO:1,RAJIV NAGAR,1ST STREET,MUTHAPUDUPET,IAF,AVADI ",
+      "patientStatus": "DEATH             ",
+      "start_on": "5/21/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "157",
+      "wardNo": "19",
+      "areaName": "NO:24,KALLUKADAI STREET,GOWERIPETTAI,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/21/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "158",
+      "wardNo": "26",
+      "areaName": "NO:13/3RD STREET,WASWERMEN COLONY WEST KUMARAN NAGAR,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/21/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "159",
+      "wardNo": "35",
+      "areaName": "NO:51/1, MGR STREET,GANDHI NAGAR,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/21/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "160",
+      "wardNo": "15",
+      "areaName": "NO:40, PONIYAMMAN KOVIL STREET,ANNANUR,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/21/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "161",
+      "wardNo": "31",
+      "areaName": "NO:4,NETHAJI STREET, KAMARJAR NAGAR,AVADI CHENNAI-71 ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/22/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "162",
+      "wardNo": "16",
+      "areaName": "NO:K70 SHANTHI TOWERS AVADI POONAMALLE ROAD",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/21/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "163",
+      "wardNo": "16",
+      "areaName": "NO: 701, SHANTHA TOWER,AVADIPOONAMALLE ROAD ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/21/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "164",
+      "wardNo": "16",
+      "areaName": "NO:701,SHANTHA TOWER AVADIPOONAMALLE ROAD",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/21/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "165",
+      "wardNo": "21",
+      "areaName": "TSP,2BN,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/22/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "166",
+      "wardNo": "48",
+      "areaName": "NO:5,VENKATESHWARA NAGAR,MUTHAPUDUPET, AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/22/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "167",
+      "wardNo": "10",
+      "areaName": "NO:50,CHOLAMBEDU ROAD,THIRUMULAIVOYAL,CHENNIA-62 ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/23/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "168",
+      "wardNo": "16",
+      "areaName": "NO:62,3RD MAIN ROAD, ASHOK NIRANJAN NAGAR,PARUTHIPATTU, AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/23/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "169",
+      "wardNo": "8",
+      "areaName": "NO:32/4TH CROSS STREET, THENDRAL NAGAR, EAST THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/23/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "170",
+      "wardNo": "14",
+      "areaName": "NO:2A,4TH AVENUE,40FT ROAD,SIVA SAKTHI NAGAR, ANNANUR,CHENNAI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/23/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "171",
+      "wardNo": "9",
+      "areaName": "NO:45,INDRA NAGAR,2ND STREET,CHOLAPURAM, AMBATTUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/23/20",
+      "end_on": "6/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "172",
+      "wardNo": "11",
+      "areaName": "NO:5,SEKKIER STREET,SENTHIL NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/24/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "173",
+      "wardNo": "36",
+      "areaName": "NO:340,MODERN CITY,1ST STREET,PATABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/24/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "174",
+      "wardNo": "9",
+      "areaName": "NO:36,GANAPTHY STREET,GANAPATHY NAGAR,THIRUMULAIVOYAL CHENNAI-33",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/24/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "175",
+      "wardNo": "48",
+      "areaName": "NO:21,VENKATESHWARA NAGAR,MUTHAPUDUPET,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/24/20",
+      "end_on": "6/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "176",
+      "wardNo": "31",
+      "areaName": "NO:16,BUDDHA STREET,KAMARAJAR NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/25/20",
+      "end_on": "6/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "177",
+      "wardNo": "18",
+      "areaName": "NO:159,PILLAYAR KOIL STREET,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/25/20",
+      "end_on": "6/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "178",
+      "wardNo": "38",
+      "areaName": "PERUMAL KOIL STREET,PATTABIRAM",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/25/20",
+      "end_on": "6/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "179",
+      "wardNo": "30",
+      "areaName": "NO:17,BAJANAI KOIL STREET,KAMARAJAR NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/25/20",
+      "end_on": "6/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "180",
+      "wardNo": "15",
+      "areaName": "NO:253,MULLAI STREET,1ST MAIN ROAD,JOTHI NAGAR,ANNANUR,CHENNAI-62",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/25/20",
+      "end_on": "6/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "181",
+      "wardNo": "7",
+      "areaName": "5TH,STREET, THIRUVALLUR NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/25/20",
+      "end_on": "6/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "182",
+      "wardNo": "15",
+      "areaName": "NO:16,PERIYAR NAGAR,VENKATESAN STREET,ANNANUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/25/20",
+      "end_on": "6/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "183",
+      "wardNo": "12",
+      "areaName": "NO:21,1ST CROSS STREET,SHANTHIPURAM,CHOLAMBEDU ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/26/20",
+      "end_on": "6/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "184",
+      "wardNo": "5",
+      "areaName": "NO:57,MULLAI NAGAR,KOVILPATHAGAI,AVADI CHENNAI-62 ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/26/20",
+      "end_on": "6/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "185",
+      "wardNo": "7",
+      "areaName": "NO:108,VGN STEFORD,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/18/20",
+      "end_on": "6/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "186",
+      "wardNo": "7",
+      "areaName": "NO:31,1ST ANNA NAGAR,S.S.NAGAR, THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/17/20",
+      "end_on": "5/31/20",
+      "status": "true"
+   },
+   {
+      "areaId": "187",
+      "wardNo": "21",
+      "areaName": "NO:RC,TSP,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "188",
+      "wardNo": "21",
+      "areaName": "NO:RC,TSP,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/8/20",
+      "end_on": "6/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "189",
+      "wardNo": "45",
+      "areaName": "NO:14,PERIYAR STREET, AMBEDKAR NAGAR,PATTABIRAM",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/27/20",
+      "end_on": "6/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "190",
+      "wardNo": "14",
+      "areaName": "NO: 7B,SIVA SAKTHI NAGAR,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/27/20",
+      "end_on": "6/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "191",
+      "wardNo": "13",
+      "areaName": "NO:13,SATHYAMOORTHY STREET,VAISHNAVA NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/27/20",
+      "end_on": "6/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "192",
+      "wardNo": "48",
+      "areaName": "NO:2/4,PALAVEDU MAIN ROAD,MITTANAMALLI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/27/20",
+      "end_on": "6/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "193",
+      "wardNo": "48",
+      "areaName": "NO: 2/4,PALAVEDU MAIN ROAD,MITTANAMALLI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/27/20",
+      "end_on": "6/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "194",
+      "wardNo": "9",
+      "areaName": "NO:21,4TH LEFT STREET,THIRUMULAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/27/20",
+      "end_on": "6/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "195",
+      "wardNo": "47",
+      "areaName": "NO:21,ANNA STREET,KAKKANJI NAGAR,PATTABIRAM",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/28/20",
+      "end_on": "6/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "196",
+      "wardNo": "39",
+      "areaName": "NO:276/11A,4TH CROSS STREET, 6TH MAIN ROAD,HINDU COLLEGE,PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/28/20",
+      "end_on": "6/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "197",
+      "wardNo": "14",
+      "areaName": "NO:9,SIVASAKTHI NAGAR,40TH STREET,D SECTOR,ANNANUR",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/28/20",
+      "end_on": "6/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "198",
+      "wardNo": "7",
+      "areaName": "NO:6,G V  MARIYAMMAN KOIL STREET,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/28/20",
+      "end_on": "6/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "199",
+      "wardNo": "31",
+      "areaName": "NO:16,BUDDHAR STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/28/20",
+      "end_on": "6/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "200",
+      "wardNo": "16",
+      "areaName": "FLAT NO:241,BLOCK B,KENDRIYA VIHAR,PARUTHIPATTU, AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/28/20",
+      "end_on": "6/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "201",
+      "wardNo": "17",
+      "areaName": "NO:13,MULLAI STREET,VASANTHA NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/28/20",
+      "end_on": "6/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "202",
+      "wardNo": "12",
+      "areaName": "NO:5,KULAKARAI STREET,SRI SAKTHI NAGAR, ANNANUR            ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/28/20",
+      "end_on": "6/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "203",
+      "wardNo": "17",
+      "areaName": "NO:15,24TH, 2ND CROSS STREET, JB ESTATE,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/29/20",
+      "end_on": "6/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "204",
+      "wardNo": "48",
+      "areaName": "NO:2/4,PALLAVEEDU,MAIN ROAD,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/28/20",
+      "end_on": "6/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "205",
+      "wardNo": "18",
+      "areaName": "NO:359,T.N.H.B,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/28/20",
+      "end_on": "6/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "206",
+      "wardNo": "46",
+      "areaName": "NO:53,11TH STREET,BHARATHI NAGAR,MUTHAPUDUPET,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/29/20",
+      "end_on": "6/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "207",
+      "wardNo": "30",
+      "areaName": "NO:17,KARUMARIAMMAN KOIL STREET,BHARATHIDASA NAGAR,SRIDIEVI NAGAR,THIRUVALLUR",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/28/20",
+      "end_on": "6/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "208",
+      "wardNo": "26",
+      "areaName": "NO:16,10TH STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/30/20",
+      "end_on": "6/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "209",
+      "wardNo": "40",
+      "areaName": "NO:19,WATTER WALLSTREET,THANTHURAI,PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/30/20",
+      "end_on": "6/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "210",
+      "wardNo": "26",
+      "areaName": "NO: 19/5,2ND STREET,RAM NAGAR,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/21/20",
+      "end_on": "6/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "211",
+      "wardNo": "8",
+      "areaName": "NO:5,THENDRAL NAGAR,3RD CROSS STREET,THIRUMULAIVOYAL,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/30/20",
+      "end_on": "6/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "212",
+      "wardNo": "39",
+      "areaName": "NO:156A,GANDHI STREET,GOPALAPURAM,WEST PATTABIRAM",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/30/20",
+      "end_on": "6/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "213",
+      "wardNo": "30",
+      "areaName": "NO: 30,THIRUVALLUR STREET,SRIDEVI NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/30/20",
+      "end_on": "6/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "214",
+      "wardNo": "17",
+      "areaName": "NO:26TH STREET,JB ESTATE,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/30/20",
+      "end_on": "6/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "215",
+      "wardNo": "17",
+      "areaName": "NO:26TH STREET,JB ESTATE ,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/30/20",
+      "end_on": "6/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "216",
+      "wardNo": "12",
+      "areaName": "NO:7,V.O.C STREET,CHOLAMBEDU ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/30/20",
+      "end_on": "6/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "217",
+      "wardNo": "17",
+      "areaName": "NO:24TH STREET,2ND CROSS STREET,JB ESTATE,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/31/20",
+      "end_on": "6/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "218",
+      "wardNo": "11",
+      "areaName": "NO:41,VIGAI STREET,SRI NAGAR COLONY,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/31/20",
+      "end_on": "6/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "219",
+      "wardNo": "6",
+      "areaName": "NO:79/7,SATHYAMOORTHY NAGAR,POLICE QUARTERS,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/31/20",
+      "end_on": "6/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "220",
+      "wardNo": "17",
+      "areaName": "NO:1,26TH STREET,AKA AISHWARYAM APPARTMENT,JB ESTATE,AVADI",
+      "patientStatus": "DEATH",
+      "start_on": "5/31/20",
+      "end_on": "6/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "221",
+      "wardNo": "17",
+      "areaName": "NO:23, JB ESTATE,23RD STREET,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/31/20",
+      "end_on": "6/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "222",
+      "wardNo": "4",
+      "areaName": "NO:281,KALAIGNAR NAGAR,20TH STREET,KOVILPATTAGAI,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "5/31/20",
+      "end_on": "6/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "223",
+      "wardNo": "12",
+      "areaName": "NO:20/101,MIG FLAT,TNHB,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/1/20",
+      "end_on": "6/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "224",
+      "wardNo": "18",
+      "areaName": "NO:1493,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/1/20",
+      "end_on": "6/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "225",
+      "wardNo": "17",
+      "areaName": "NO:13,MULLAI STREET,VASANTHAM NAGAR,AVADIKAMARAJAR NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/1/20",
+      "end_on": "6/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "226",
+      "wardNo": "17",
+      "areaName": "NO:13,MULLAI STREET,VASANTHAM NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/1/20",
+      "end_on": "6/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "227",
+      "wardNo": "17",
+      "areaName": "NO:13,,VASANTHAM NAGAR,GOVARTHANAGARI,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/1/20",
+      "end_on": "6/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "228",
+      "wardNo": "45",
+      "areaName": "NO:32,AMMAN KOIL STREET,AMBEDHKAR NAGAR,PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/1/20",
+      "end_on": "6/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "229",
+      "wardNo": "12",
+      "areaName": "NO:9,THIRUMULAIYAPPAN STREET,NETHAJI NAGAR EAST,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/1/20",
+      "end_on": "6/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "230",
+      "wardNo": "37",
+      "areaName": "NO:34,VGN CRAFTOWN,VILLINJIYAPAKAM",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/1/20",
+      "end_on": "6/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "231",
+      "wardNo": "18",
+      "areaName": "NO:93,TNHB ,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/2/20",
+      "end_on": "6/16/20",
+      "status": "true"
+   },
+   {
+      "areaId": "232",
+      "wardNo": "6",
+      "areaName": "NO:43/5,SM NAGAR POLICE QUARTERS,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/2/20",
+      "end_on": "6/16/20",
+      "status": "true"
+   },
+   {
+      "areaId": "233",
+      "wardNo": "12",
+      "areaName": "NO:18,DHARKA STREET,CHOLAN NAGAR,TIRUVALLUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/2/20",
+      "end_on": "6/16/20",
+      "status": "true"
+   },
+   {
+      "areaId": "234",
+      "wardNo": "14",
+      "areaName": "NO:1/8,THOLKAPPIAN STREET,SRI SAKTHI NAGAR,ANNANUR",
+      "patientStatus": "DEATH",
+      "start_on": "6/2/20",
+      "end_on": "6/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "235",
+      "wardNo": "11",
+      "areaName": "NO:207,RAJAJI STREET, SENTHIL NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/3/20",
+      "end_on": "6/17/20",
+      "status": "true"
+   },
+   {
+      "areaId": "236",
+      "wardNo": "11",
+      "areaName": "NO:207,,SENTHIL NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/3/20",
+      "end_on": "6/17/20",
+      "status": "true"
+   },
+   {
+      "areaId": "237",
+      "wardNo": "5",
+      "areaName": "NO:68&69,FLAT NO:F1,GRACE GREEN PARK APARTMENTS,RATHNAM STREET,MULLAI NAGAR,KOVILPATHAGAI, AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/3/20",
+      "end_on": "6/17/20",
+      "status": "true"
+   },
+   {
+      "areaId": "238",
+      "wardNo": "41",
+      "areaName": "NO:5TH CROSSS STREET,M.G.ROAD,PATTABIRAM",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/3/20",
+      "end_on": "6/17/20",
+      "status": "true"
+   },
+   {
+      "areaId": "239",
+      "wardNo": "11",
+      "areaName": "NO:8/2,VANCHINATHAN STREET,SENTHIL NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/3/20",
+      "end_on": "6/17/20",
+      "status": "true"
+   },
+   {
+      "areaId": "240",
+      "wardNo": "17",
+      "areaName": "NO:27,SRINIVASAN STREET,VASANTHAM NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/3/20",
+      "end_on": "6/17/20",
+      "status": "true"
+   },
+   {
+      "areaId": "241",
+      "wardNo": "17",
+      "areaName": "NO:84,3RD MAIN ROAD,JB ESTATE,AVADI ",
+      "patientStatus": "DEATH",
+      "start_on": "6/3/20",
+      "end_on": "6/17/20",
+      "status": "true"
+   },
+   {
+      "areaId": "242",
+      "wardNo": "6",
+      "areaName": "NO:51,SHANTHI NAGAR,1ST STREET,THIRUMULAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/3/20",
+      "end_on": "6/17/20",
+      "status": "true"
+   },
+   {
+      "areaId": "243",
+      "wardNo": "42",
+      "areaName": "NO:42,BAJANAI KOIL STREET,PATTABIRAM",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/3/20",
+      "end_on": "6/17/20",
+      "status": "true"
+   },
+   {
+      "areaId": "244",
+      "wardNo": "45",
+      "areaName": "BABUB NAGAR,ANNA SALAI,PATTABIRAM",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/3/20",
+      "end_on": "6/17/20",
+      "status": "true"
+   },
+   {
+      "areaId": "245",
+      "wardNo": "29",
+      "areaName": "NO:96,6TH STREET,KAMARAJAR NAGAR,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/3/20",
+      "end_on": "6/17/20",
+      "status": "true"
+   },
+   {
+      "areaId": "246",
+      "wardNo": "18",
+      "areaName": "NO:314,LIG 11,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/4/20",
+      "end_on": "6/18/20",
+      "status": "true"
+   },
+   {
+      "areaId": "247",
+      "wardNo": "14",
+      "areaName": "AB ROSE GARDEN,C-BLOCK,F2-PLOT NO-1,60 FEET STATION ROAD,SIVASAKTHI NAGAR,ANNANUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/4/20",
+      "end_on": "6/18/20",
+      "status": "true"
+   },
+   {
+      "areaId": "248",
+      "wardNo": "26",
+      "areaName": "NO:12,9TH PALLA STREET, KAMARAJAR NAGAR, AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/4/20",
+      "end_on": "6/18/20",
+      "status": "true"
+   },
+   {
+      "areaId": "249",
+      "wardNo": "18",
+      "areaName": "NO:23 94,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/4/20",
+      "end_on": "6/18/20",
+      "status": "true"
+   },
+   {
+      "areaId": "250",
+      "wardNo": "9",
+      "areaName": "NO:21,F2,9TH LEFT STREET,MAN KONDUVARAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/4/20",
+      "end_on": "6/18/20",
+      "status": "true"
+   },
+   {
+      "areaId": "251",
+      "wardNo": "9",
+      "areaName": "NO:21,F2,9TH LEFT STREET,MAN KONDUVARAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/4/20",
+      "end_on": "6/18/20",
+      "status": "true"
+   },
+   {
+      "areaId": "252",
+      "wardNo": "39",
+      "areaName": "NO:5/A,1ST MAIN ROAD,2ND CROSS STREET,NEAR HINDU COLLEGE,GOPALAPURAM",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/4/20",
+      "end_on": "6/18/20",
+      "status": "true"
+   },
+   {
+      "areaId": "253",
+      "wardNo": "16",
+      "areaName": "NO:203,J BLOCK,2ND FLOOR,HAPPINEST APARTMENT,PARUTHIPATTU,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/5/20",
+      "end_on": "6/19/20",
+      "status": "true"
+   },
+   {
+      "areaId": "254",
+      "wardNo": "18",
+      "areaName": "NO:58,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/5/20",
+      "end_on": "6/19/20",
+      "status": "true"
+   },
+   {
+      "areaId": "255",
+      "wardNo": "7",
+      "areaName": "NO:11,2ND STREET,VENKATACHALAM NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/5/20",
+      "end_on": "6/19/20",
+      "status": "true"
+   },
+   {
+      "areaId": "256",
+      "wardNo": "10",
+      "areaName": "NO:36A,BHARATHI NAGAR,6TH STREET,2ND CROSS,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/5/20",
+      "end_on": "6/19/20",
+      "status": "true"
+   },
+   {
+      "areaId": "257",
+      "wardNo": "39",
+      "areaName": "NO:9,THENDRAL NAGAR,5TH STREET,WEST GOPALAPURAM,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/5/20",
+      "end_on": "6/19/20",
+      "status": "true"
+   },
+   {
+      "areaId": "258",
+      "wardNo": "7",
+      "areaName": "NO:11,2ND STREET, VENKATACHALAM NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "259",
+      "wardNo": "7",
+      "areaName": "NO:J1,306,VGN STEPHORD,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "260",
+      "wardNo": "6",
+      "areaName": "NO:441/1A,THAMARAI STREET,PONMOZHI NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "261",
+      "wardNo": "15",
+      "areaName": "NO:1,1ST CROSS STREET,SHIVA HOME,STATION ROAD,ANNANUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "262",
+      "wardNo": "15",
+      "areaName": "NO:1,1ST CROSS STREET,SHIVA HOME,STATION ROAD,ANNANUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "263",
+      "wardNo": "11",
+      "areaName": "NO:207,RAJAJI STREET,SENTHIL NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "264",
+      "wardNo": "26",
+      "areaName": "NO:95/92,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "265",
+      "wardNo": "27",
+      "areaName": "9TH STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "266",
+      "wardNo": "40",
+      "areaName": "NO:6/1,VALLALAR NAGAR,1ST STREET,PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "267",
+      "wardNo": "39",
+      "areaName": "NO:17,7TH MAIN ROAD,THENDRAL NAGAR, PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "268",
+      "wardNo": "39",
+      "areaName": "NO:17,7TH MAIN ROAD,THYENDRAL NAGAR, PATTABIRAM ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "269",
+      "wardNo": "39",
+      "areaName": "NO:161,MULLAI NAGAR,1ST STREET,PATTABIRAM ",
+      "patientStatus": "DEATH",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "270",
+      "wardNo": "43",
+      "areaName": "PATTABIRAM,THIRUVALLUR ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "271",
+      "wardNo": "17",
+      "areaName": "NO:5/4,TIRUVALLUVAR 3RD CROSS STREET,KAMARAJ NAGAR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "272",
+      "wardNo": "46",
+      "areaName": "PERIYAR STREET,AMBEDKHAR NAGAR,PATTABIRAM",
+      "patientStatus": "DEATH",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "273",
+      "wardNo": "13",
+      "areaName": "13TH BATTALION. VAISHNAVI NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "274",
+      "wardNo": "29",
+      "areaName": "THULASI STREET,THIRUVALLUVAR NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "275",
+      "wardNo": "6",
+      "areaName": "NO: 40/6,TYPE 3,HV FESKLE AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/6/20",
+      "end_on": "6/20/20",
+      "status": "true"
+   },
+   {
+      "areaId": "276",
+      "wardNo": "48",
+      "areaName": "NO:12/9 3RD STREET,PERIYAR NAGAR,MUTHAPUDUPET ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "07.06.2020",
+      "end_on": "6/21/20",
+      "status": "true"
+   },
+   {
+      "areaId": "277",
+      "wardNo": "12",
+      "areaName": "VOC STREET,CHOLAMBEDU",
+      "patientStatus": "DISCHARGED",
+      "start_on": "07.06.2020",
+      "end_on": "6/21/20",
+      "status": "true"
+   },
+   {
+      "areaId": "278",
+      "wardNo": "14",
+      "areaName": "NO:16J,RAILWAY CAESHED COMPLEX ANNANUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "07.06.2020",
+      "end_on": "6/21/20",
+      "status": "true"
+   },
+   {
+      "areaId": "279",
+      "wardNo": "14",
+      "areaName": "NO:5,SK APARTMENT,THIRUPARAI STREET,SRI SAKTHI NAGAR,ANNANUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "07.06.2020",
+      "end_on": "6/21/20",
+      "status": "true"
+   },
+   {
+      "areaId": "280",
+      "wardNo": "45",
+      "areaName": "NO:37,AMMAN KOIL, AMBEDKHAR NAGAR  ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "07.06.2020",
+      "end_on": "6/21/20",
+      "status": "true"
+   },
+   {
+      "areaId": "281",
+      "wardNo": "17",
+      "areaName": "5TH THILLAI NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "07.06.2020",
+      "end_on": "6/21/20",
+      "status": "true"
+   },
+   {
+      "areaId": "282",
+      "wardNo": "17",
+      "areaName": "1ST  KUMARASAMY,KOTHARI GARDEN,VASANTHA NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "07.06.2020",
+      "end_on": "6/21/20",
+      "status": "true"
+   },
+   {
+      "areaId": "283",
+      "wardNo": "41",
+      "areaName": "NO:39,KAMARJAPURAM,ST.THOMAS STREET,PATTABIRAM ",
+      "patientStatus": "DEATH",
+      "start_on": "07.06.2020",
+      "end_on": "6/21/20",
+      "status": "true"
+   },
+   {
+      "areaId": "284",
+      "wardNo": "18",
+      "areaName": "NO:2394,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/8/20",
+      "end_on": "6/22/20",
+      "status": "true"
+   },
+   {
+      "areaId": "285",
+      "wardNo": "17",
+      "areaName": "NO:84,3RD MAIN ROAD,JB ESTATE,AVADI",
+      "patientStatus": "DEATH",
+      "start_on": "6/8/20",
+      "end_on": "6/22/20",
+      "status": "true"
+   },
+   {
+      "areaId": "286",
+      "wardNo": "27",
+      "areaName": "NO:8/13,BHARATHIYAR STREET,KANNAPALAYAM,AVADI ",
+      "patientStatus": "DEATH",
+      "start_on": "6/8/20",
+      "end_on": "6/22/20",
+      "status": "true"
+   },
+   {
+      "areaId": "287",
+      "wardNo": "35",
+      "areaName": "NO:29,DHANALAKSHMI NAGAR MAIN ROAD,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/8/20",
+      "end_on": "6/22/20",
+      "status": "true"
+   },
+   {
+      "areaId": "288",
+      "wardNo": "39",
+      "areaName": "NO:7,11TH STREET,THENDRAL NAGAR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/8/20",
+      "end_on": "6/22/20",
+      "status": "true"
+   },
+   {
+      "areaId": "289",
+      "wardNo": "39",
+      "areaName": "NO:7,11TH STREET,THENDRAL NAGAR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/8/20",
+      "end_on": "6/22/20",
+      "status": "true"
+   },
+   {
+      "areaId": "290",
+      "wardNo": "9",
+      "areaName": "NO:G2,TAMARAI NAGAR, 2ND STREET ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/8/20",
+      "end_on": "6/22/20",
+      "status": "true"
+   },
+   {
+      "areaId": "291",
+      "wardNo": "33",
+      "areaName": "NO:4,VEDHANAYAGAM 2ND STREET,NANDAVANAMETTUR AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/8/20",
+      "end_on": "6/22/20",
+      "status": "true"
+   },
+   {
+      "areaId": "292",
+      "wardNo": "39",
+      "areaName": "NO:101/25A,2ND MAIN ROAD,GOPALAPURAM,THIRUVALLUR ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "293",
+      "wardNo": "1",
+      "areaName": "NO:5,JAIN NAGAR,MITTANAMALLI ",
+      "patientStatus": "DEATH",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "294",
+      "wardNo": "26",
+      "areaName": "NO:141,OLD JEEVANATHA STREET,KAMARAJAR NAGAR,AVADI ",
+      "patientStatus": "DEATH",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "295",
+      "wardNo": "1",
+      "areaName": "NO:5,JAIN NAGAR,MITTANAMALLI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "296",
+      "wardNo": "7",
+      "areaName": "NO:11,VENKATACHALAM NAGAR,2ND STREET,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "297",
+      "wardNo": "7",
+      "areaName": "NO:26,5TH STREET,VENKATCHALAM NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "298",
+      "wardNo": "12",
+      "areaName": "NO:45,THIRUVIKA STREET,CHOLAN NAGAR,CHOLAMBEDU",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "299",
+      "wardNo": "18",
+      "areaName": "RAMDASS NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "300",
+      "wardNo": "9",
+      "areaName": "NO:5,SUNSHINE VILA,SURIYA GADHI STREET,VIVEKANDA NAGAR,CHOLAMBEDU ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "301",
+      "wardNo": "17",
+      "areaName": "NO:8/10,BHARATHI NAGAR,1ST CROSS STREET,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "302",
+      "wardNo": "8",
+      "areaName": "NO:47/81,THENDRAL NAGAR EAST,SARASWATHY NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "303",
+      "wardNo": "2",
+      "areaName": "NO:58/1,VALLUVAR STREET,MITTANAMALLI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "304",
+      "wardNo": "48",
+      "areaName": "NO:19,16TH STREET,8TH LANE DEFENSE ENCLAVE,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/9/20",
+      "end_on": "6/23/20",
+      "status": "true"
+   },
+   {
+      "areaId": "305",
+      "wardNo": "3",
+      "areaName": "NO:5,1ST CROSS STREET,1ST MAIN ROAD,RAJIV GANDHI NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "306",
+      "wardNo": "13",
+      "areaName": "NO:4,VALLUVAR STREET,DEVI NAGAR,ANNANUR RAILWAY STATION ROAD ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "307",
+      "wardNo": "17",
+      "areaName": "NO:3,MALLIGAI STREET,SARASWATHY NAGAR,ANNANUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "308",
+      "wardNo": "5",
+      "areaName": "NO:23,VANNIAR STREET,KOVILPATHAGAI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "309",
+      "wardNo": "1",
+      "areaName": "NO:11,KALTHU METTU STREET,MITTANAMALLI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "310",
+      "wardNo": "16",
+      "areaName": "NO:59,KULLAKARAI STREET,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "311",
+      "wardNo": "26",
+      "areaName": "NO:4,KUPPAMAL STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "312",
+      "wardNo": "39",
+      "areaName": "NO:45,SOUTH BAZAAR,PATTABIRAM ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "313",
+      "wardNo": "37",
+      "areaName": "NO:172/3,SEKKADU MAIN ROAD,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "314",
+      "wardNo": "25",
+      "areaName": "NO:3,ANNA STREET,KANIGAPURAM,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "315",
+      "wardNo": "19",
+      "areaName": "NO: 22,EASWARAN KOIL STREET,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "316",
+      "wardNo": "8",
+      "areaName": "NO:41 C,19TH STREET,THENDRAL NAGAR EAST,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "317",
+      "wardNo": "24",
+      "areaName": "NO: 205,NM ROAD,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "318",
+      "wardNo": "33",
+      "areaName": "NO: 9,KATTABOMMAN STREET,NANDAVANAM MAIN ROAD,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "319",
+      "wardNo": "8",
+      "areaName": "NO:30,PADMAVATHY NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "320",
+      "wardNo": "26",
+      "areaName": "NO:25,2ND STREET,RAM NAGAR,KAMARAJAR NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "321",
+      "wardNo": "7",
+      "areaName": "NO: 293/6,NETHAJI STREET,KAMALAM NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "322",
+      "wardNo": "46",
+      "areaName": "NO:17/19,SIVANKOIL STREET,ELLAIYAMMAN NAGAR,MUTHAPUDUPET ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "323",
+      "wardNo": "16",
+      "areaName": "NO:55/14,BAJANAI KOIL STREET,PARUTHIPATTU ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "324",
+      "wardNo": "26",
+      "areaName": "NO:12/10,KUMARAN STREET,KAMARAJAR NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "325",
+      "wardNo": "26",
+      "areaName": "NO:12/10,KUMARAN STREET,KAMARAJAR NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "326",
+      "wardNo": "19",
+      "areaName": "NO:1,ESWARAN KOIL STREET,GOWERIPETTAI,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "327",
+      "wardNo": "18",
+      "areaName": "NO:2735,TNHB,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "328",
+      "wardNo": "16",
+      "areaName": "NO: 40/52,M.G.R NAGAR,KOLADI ROAD,PARUTHIPATTU ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "329",
+      "wardNo": "48",
+      "areaName": "NO:16,1ST STREET,PACHIAMMAN NAGAR,MITTANAMALLI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "330",
+      "wardNo": "47",
+      "areaName": "NO:13/A,VINAYAGAR KOIL STREET,BHARATHIYAR NAGAR,PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "331",
+      "wardNo": "46",
+      "areaName": "No: 17,IAF ROAD,SASTHRI NAGAR,PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "332",
+      "wardNo": "8",
+      "areaName": "NO: 28,KAMBAR STREET,THIRUMULAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "333",
+      "wardNo": "13",
+      "areaName": "NO:21,VAISHNAVI NAGAR,5TH STREET,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "334",
+      "wardNo": "18",
+      "areaName": "NO: 137,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "335",
+      "wardNo": "24",
+      "areaName": "(41/M) NO: 205,N.M.ROAD,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "336",
+      "wardNo": "24",
+      "areaName": "NO: 205,NM ROAD,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "337",
+      "wardNo": "9",
+      "areaName": "NO:14C NAVEEN HOMES KANAGAMNARAM STREET,VIVEKANANTHAR NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "338",
+      "wardNo": "28",
+      "areaName": "NO:14,ATHORA STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "339",
+      "wardNo": "17",
+      "areaName": "NO: 10,GANAPTHI STREET,VASANTHAM NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/10/20",
+      "end_on": "6/24/20",
+      "status": "true"
+   },
+   {
+      "areaId": "340",
+      "wardNo": "36",
+      "areaName": "NO:6,SAMY VIVEKANANDA AVENUE,ANNA NAGAR,PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/11/20",
+      "end_on": "6/25/20",
+      "status": "true"
+   },
+   {
+      "areaId": "341",
+      "wardNo": "26",
+      "areaName": "NO:8,8TH STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "342",
+      "wardNo": "18",
+      "areaName": "NO: 3607,B TYPR,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "343",
+      "wardNo": "18",
+      "areaName": "NO:3607,B-TYPE,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "344",
+      "wardNo": "33",
+      "areaName": "NO:9,KATTA BOMMAN STREET,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "345",
+      "wardNo": "8",
+      "areaName": "NO:6-A,THENDRAL NAGAR,3RD STREET,THIRUMULAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "346",
+      "wardNo": "26",
+      "areaName": "NO:53,8TH STREET,KAMARAJ NAGAR,AVADI",
+      "patientStatus": "DEATH ",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "347",
+      "wardNo": "16",
+      "areaName": "NO:35,BHARATHIYAR STREET,KOVANKADHAI NAGAR,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "348",
+      "wardNo": "1",
+      "areaName": "NO:5,HIGH SCHOOL STREET,JAIN NAGAR,MITTANAMALLI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "349",
+      "wardNo": "11",
+      "areaName": "NO:5,APPAR STREET,SENTHIL NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "350",
+      "wardNo": "8",
+      "areaName": "NO: 30,PADMAVATHI NAGAR,3RD MAIN ROAD,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "351",
+      "wardNo": "13",
+      "areaName": "NO:12/13,RAJESHWARI HOMES,DEVI NAGAR,RAJESHWARI STREET,RAILWAY CARSHED COMPLEX ",
+      "patientStatus": "DEATH",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "352",
+      "wardNo": "29",
+      "areaName": "NO:23,PERIYAR STREET,SRIDEVI NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "353",
+      "wardNo": "29",
+      "areaName": "NO:23,PERIYAR STREET,SRIDEVI NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/12/20",
+      "end_on": "6/26/20",
+      "status": "true"
+   },
+   {
+      "areaId": "354",
+      "wardNo": "36",
+      "areaName": "NO:27/24,VIVEKANADA 2ND STREET,PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "355",
+      "wardNo": "20",
+      "areaName": "NO:528/4,HV ESTATE,TYPE2,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "356",
+      "wardNo": "17",
+      "areaName": "NO:42,PILLAYAR KOIL STREET,GOVARDHANAGIRI,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "357",
+      "wardNo": "29",
+      "areaName": "6TH STREET,KAMARAJ NAGAR,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "358",
+      "wardNo": "18",
+      "areaName": "NO:1681,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "359",
+      "wardNo": "12",
+      "areaName": "NO:22/A,AADIYABADHAM STREET,CHOLAN NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "360",
+      "wardNo": "9",
+      "areaName": "NO:S3,BLUE STAR HOME,MANIKANDAPURAM,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "361",
+      "wardNo": "9",
+      "areaName": "NO:S3,SARAVANA NAGAR,6TH NIGHT STREET,BLUE STAR HOMES,MANIKANDAPURAM,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "362",
+      "wardNo": "9",
+      "areaName": "NO:S3,SARAVANA NAGAR,6TH NIGHT STREET,BLUE STAR HOMES,MANIKANDAPURAM,THIRUMULAIVOYAL",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "363",
+      "wardNo": "15",
+      "areaName": "NO:3,MALLIGAI STREET,SARASWATHI NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "364",
+      "wardNo": "18",
+      "areaName": "NO: 135,PILLAYAR KOIL STREET,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "365",
+      "wardNo": "18",
+      "areaName": "NO: 132,PILLAYAR KOIL STREET,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "366",
+      "wardNo": "35",
+      "areaName": "NO: 131,GANGAI AMMAN KOIL STREET,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "367",
+      "wardNo": "6",
+      "areaName": "NO: 66/9,SM NAGAR,POLICE QUARTERS,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "368",
+      "wardNo": "13",
+      "areaName": "NO: 12/13,RAJESHWARI HOMES,RAJESHWARI STREET,DEVI NAGAR,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "369",
+      "wardNo": "37",
+      "areaName": "NO:19/110,SEKKADU MAIN ROAD ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "370",
+      "wardNo": "48",
+      "areaName": "NO:41,PALAVEDU MAIN ROAD,ST.MARY SANDHU 2ND VEEDHI,MITTANAMALLE",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "371",
+      "wardNo": "14",
+      "areaName": "NO: 19/25,AGANOORU STREET,SRI SAKTHI NAGAR,CHOLAMBEDU ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "372",
+      "wardNo": "14",
+      "areaName": "NO: 19/25,AGANOORU STREET,SRI SAKTHI NAGAR,CHOLAMBEDU  ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "373",
+      "wardNo": "9",
+      "areaName": "NO: S3,BLUE STAR HOME,MANIKANDAPURAM",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "374",
+      "wardNo": "38",
+      "areaName": "NO:2,PALLAR STREET,VIGNESHWAR NAGAR,THANDURAI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/13/20",
+      "end_on": "6/27/20",
+      "status": "true"
+   },
+   {
+      "areaId": "375",
+      "wardNo": "30",
+      "areaName": "NO:1, KANNAGI STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "376",
+      "wardNo": "30",
+      "areaName": "NO:1, KANNAGI STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "377",
+      "wardNo": "30",
+      "areaName": "NO:1, KANNAGI STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "378",
+      "wardNo": "30",
+      "areaName": "NO:1, KANNAGI STREET,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "379",
+      "wardNo": "6",
+      "areaName": "NO:36,ABDUL RAGIM STREET,ASHOK NAGAR,KOVILPATHAGAI,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "380",
+      "wardNo": "13",
+      "areaName": "NO:16,8TH STREET,VAISHNAVI NAGAR,RAILWAY CARSHED COMPLEX,THIRUVALLUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "381",
+      "wardNo": "7",
+      "areaName": "PLOT NO:2,5/2,EAST MADA STREET,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "382",
+      "wardNo": "7",
+      "areaName": "NO:45,10TH THIRUVALLUR NAGAR,THIRUMUALIVOYAL ",
+      "patientStatus": "DEATH",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "383",
+      "wardNo": "15",
+      "areaName": "NO:16,BHARATHIYAR STREET,PERIYAR NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DEATH",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "384",
+      "wardNo": "18",
+      "areaName": "NO:104D,LIG IT,TNHB,AVADI ",
+      "patientStatus": "DEATH",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "385",
+      "wardNo": "27",
+      "areaName": "NO: 13,6TH STREET,LASER NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "386",
+      "wardNo": "33",
+      "areaName": "NO: 28/3,THILAKAR STREET,NANDAVANAMETTUR,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "387",
+      "wardNo": "16",
+      "areaName": "NO: 1,MARIAMMAN KOVIL STREET,PARUTHIPATTU ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "388",
+      "wardNo": "10",
+      "areaName": "NO:96,SCHOOL STREET,CHOLAMBEDU  ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/14/20",
+      "end_on": "6/28/20",
+      "status": "true"
+   },
+   {
+      "areaId": "389",
+      "wardNo": "29",
+      "areaName": "KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/15/20",
+      "end_on": "6/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "390",
+      "wardNo": "8",
+      "areaName": "NEW MURUGAPPA COLONY,THIRUMULAIVOYAL CHENNAI-62",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/15/20",
+      "end_on": "6/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "391",
+      "wardNo": "35",
+      "areaName": "FLAT NO:10,3RD CROSS STREET,DHANALAKSHMI NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/15/20",
+      "end_on": "6/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "392",
+      "wardNo": "8",
+      "areaName": "NO: 75,VOC STREET,THENDRAL NAGAR EAST,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/15/20",
+      "end_on": "6/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "393",
+      "wardNo": "3",
+      "areaName": "NO:8,MAIN ROAD,RAJIV GANDHI NAGAR,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/15/20",
+      "end_on": "6/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "394",
+      "wardNo": "13",
+      "areaName": "NO:G1,ANTONY NAGAR,3RD STREET,ANNANUR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/15/20",
+      "end_on": "6/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "395",
+      "wardNo": "13",
+      "areaName": "NO:2/3,BALAJI APARTMENT,RAJESHWARI STREET,DEVI NAGAR,ANNANUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/15/20",
+      "end_on": "6/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "396",
+      "wardNo": "9",
+      "areaName": "PLOT NO:10,DOOR NO:9/14,THAMARAI NAGAR,2ND STREET,THIRUMULAIVOYAL ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/15/20",
+      "end_on": "6/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "397",
+      "wardNo": "9",
+      "areaName": "NO: 17,HOSPITAL ROAD,FORTUNE CITY,CHOLAMBEDU ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/15/20",
+      "end_on": "6/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "398",
+      "wardNo": "18",
+      "areaName": "NO:2880,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/15/20",
+      "end_on": "6/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "399",
+      "wardNo": "18",
+      "areaName": "NO: 2880,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/15/20",
+      "end_on": "6/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "400",
+      "wardNo": "6",
+      "areaName": "2ND POLICE BATALLION QUARTERS,DSP OFFICE,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/15/20",
+      "end_on": "6/29/20",
+      "status": "true"
+   },
+   {
+      "areaId": "401",
+      "wardNo": "14",
+      "areaName": "NO:1,D BLOCK,F2,AB RESIDENCY,POWER LINE ROAD,SRI SAKTHI NAGAR,ANNANUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/16/20",
+      "end_on": "6/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "402",
+      "wardNo": "14",
+      "areaName": "NO: 1,MAHIJUVARI APARTMENTS,25TH STREET,ANNANUR",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/16/20",
+      "end_on": "6/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "403",
+      "wardNo": "8",
+      "areaName": "NO:4,AARTHI NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/16/20",
+      "end_on": "6/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "404",
+      "wardNo": "18",
+      "areaName": "NO: 791,37TH STREET,TNHB,AVADI ",
+      "patientStatus": "DEATH",
+      "start_on": "6/16/20",
+      "end_on": "6/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "405",
+      "wardNo": "7",
+      "areaName": "R.C. ROYAL GRANDE MERIDIAN B2,KAMBAR STREET,KAMALAM NAGAR",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/16/20",
+      "end_on": "6/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "406",
+      "wardNo": "9",
+      "areaName": "NO:2, 2ND STREET,HARIHARA APARTMENTS,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/16/20",
+      "end_on": "6/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "407",
+      "wardNo": "43",
+      "areaName": "NO:22,BOD STREET,PATTABIRAM ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/16/20",
+      "end_on": "6/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "408",
+      "wardNo": "18",
+      "areaName": "NO:201,CHINNAMMAN KOIL STREET,1ST AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/16/20",
+      "end_on": "6/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "409",
+      "wardNo": "17",
+      "areaName": "NO:2/6,GARDEN STREET,GOVARDHANAGIRI AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/16/20",
+      "end_on": "6/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "410",
+      "wardNo": "6",
+      "areaName": "NO:2/22,2ND STREET,SANTHI NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/16/20",
+      "end_on": "6/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "411",
+      "wardNo": "7",
+      "areaName": "NO:K2-101,THIRUMULAIVOYAL,AVADI",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/16/20",
+      "end_on": "6/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "412",
+      "wardNo": "18",
+      "areaName": "NO:400,LIC,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/16/20",
+      "end_on": "6/30/20",
+      "status": "true"
+   },
+   {
+      "areaId": "413",
+      "wardNo": "18",
+      "areaName": "NO:791,TNHB,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "414",
+      "wardNo": "32",
+      "areaName": "NO: 2/2,KARUMARIYAMMAN ST,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "415",
+      "wardNo": "36",
+      "areaName": "NO: 35,1ST CROSS STREET,PATTABIRAM ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "416",
+      "wardNo": "34",
+      "areaName": "NO: 1,THENDRAL AVENUE WEST,GANDHI NAGAR,AVADI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "417",
+      "wardNo": "34",
+      "areaName": "NO: 1,THENDRAL AVENUE WEST,GANDHI NAGAR,AVADI ",
+      "patientStatus": "DEATH",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "418",
+      "wardNo": "16",
+      "areaName": "NO: 41,SAPTAGIRI NAGAR,GOVARDHANAGIRI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "419",
+      "wardNo": "44",
+      "areaName": "NO: 31,4TH KAMARAJ ST, GANDHI NAGAR,PATTABIRAM ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "420",
+      "wardNo": "6",
+      "areaName": "NO: 12/46,ROJA STREET,POOMPOZHIL NAGAR,AVADI        ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "421",
+      "wardNo": "6",
+      "areaName": "NO:2BN,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "422",
+      "wardNo": "8",
+      "areaName": "NO: 14C,PATCHAIAMMAN NAGAR,SARASWATHI NAGAR MAIN ROAD,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "423",
+      "wardNo": "27",
+      "areaName": "NO: 13/8,BHARATHIYAR STREET,ANANDHA NAGAR,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "424",
+      "wardNo": "16",
+      "areaName": "NO: D702,SANTHA TOWERS,PARUTHIPATTU,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "425",
+      "wardNo": "16",
+      "areaName": "NO: D-702,SANTHA TOWERS,PARUTHIPATTU,AVADI ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "426",
+      "wardNo": "40",
+      "areaName": "NO:11,GANGAYAMMAN KOIL STREET,THANDURAI,PATTABIRAM ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "427",
+      "wardNo": "9",
+      "areaName": "NO: 4/25,MANIKANDAPURAM,THIRUMULAIVOYAL ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "428",
+      "wardNo": "13",
+      "areaName": "NO: D3,NAGAMMAI NAGAR,POLICE QUARTERS,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "429",
+      "wardNo": "6",
+      "areaName": "NO: 44/1,SM NAGAR,POLICE QUARTER,THIRUMULAIVOYAL ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "430",
+      "wardNo": "15",
+      "areaName": "NO: 16,VAIGAI STREET,JYOTHI NAGAR,ANNANUR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "431",
+      "wardNo": "9",
+      "areaName": "NO: 4,THAMARAI STREET,VIVEKANDHA NAGAR,CHOLAMBEDU ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "432",
+      "wardNo": "44",
+      "areaName": "NO: 364,1ST CROSS STREET,NEHRU NAGAR CORNER,PATTABIRAM  ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "433",
+      "wardNo": "44",
+      "areaName": "NO: 31,KAMARAJ STREET,4TH ROAD,GANDHI NAGAR,PATTABIRAM ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "434",
+      "wardNo": "36",
+      "areaName": "NO: 276,DRIVER COLONY,PATTABIRAM ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "435",
+      "wardNo": "9",
+      "areaName": "NO:48/48A,FLAT A,F1,HARISHIVA APARTMENT,MANIKANDAPURAM,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "436",
+      "wardNo": "7",
+      "areaName": "NO:39,VAANI VINAYAGAR KOIL ST,CHINMAYA NAGAR ",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/17/20",
+      "end_on": "7/1/20",
+      "status": "true"
+   },
+   {
+      "areaId": "437",
+      "wardNo": "37",
+      "areaName": "NO: 9,UDAIYAR ST,SEKKADU,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "438",
+      "wardNo": "16",
+      "areaName": "NO: 403,SANTHA TOWERS,PARUTHIPATTU,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "439",
+      "wardNo": "9",
+      "areaName": "NO: 2,2ND STREET,KALAINAR NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "440",
+      "wardNo": "16",
+      "areaName": "SHANTHA TOWERS,PARUTHIPATTU,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "441",
+      "wardNo": "16",
+      "areaName": "SHANTHA TOWERS,PARUTHIPATTU,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "442",
+      "wardNo": "18",
+      "areaName": "NO: 241,TNHB,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "443",
+      "wardNo": "13",
+      "areaName": "NO:1,SUBASH ST,DEVI NAGAR,ANNANUR ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "444",
+      "wardNo": "3",
+      "areaName": "NO:8,MAIN ROAD,RAJIV GANDHI NAGAR,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "445",
+      "wardNo": "3",
+      "areaName": "NO:8,MAIN ROAD,RAJIV GANDHI NAGAR,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "446",
+      "wardNo": "3",
+      "areaName": "NO:8,MAIN ROAD,RAJIV GANDHI NAGAR,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "447",
+      "wardNo": "11",
+      "areaName": "NO.3, CHIRAI VEETHI SENTHIL NAGAR, THIRUMULLAIVOYAL, CHENNAI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "448",
+      "wardNo": "14",
+      "areaName": "ARAVIND VINAYAGAR POWER LINE ROAD,SIVA SAKTHI NAGAR,ANNANUR ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "449",
+      "wardNo": "12",
+      "areaName": "NO: 9,3RD STREET,SHANTHIPURAM,THIRUMULAIVOYAL ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "450",
+      "wardNo": "38",
+      "areaName": "NO: 28/73,PALLA STREET,THANDURAI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "451",
+      "wardNo": "6",
+      "areaName": "NO:85/5,NEW POLICE QUARTERS,SM NAGAR,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "452",
+      "wardNo": "6",
+      "areaName": "NO:85/5,NEW POLICE QUARTERS,SM NAGAR,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "453",
+      "wardNo": "11",
+      "areaName": "NO:204,THIRUMALA HOMES,PATEL ST,THIRUMULAIVOYAL",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "454",
+      "wardNo": "11",
+      "areaName": "NO:17,VEERAPANDIYAN STREET,SENTHIL NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "455",
+      "wardNo": "15",
+      "areaName": "NO: 48,2ND CROSS ST,4TH MAIN ROAD,JAYALAKSHMI NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "456",
+      "wardNo": "15",
+      "areaName": "NO:21,SCHOOL STREET,ANNANUR",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "457",
+      "wardNo": "16",
+      "areaName": "NO:C501,SHANTHA TOWERS,PARUTHIPATTU",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "458",
+      "wardNo": "17",
+      "areaName": "NO:31,SIVAGURU ST,VASANTHAM NAGAR,KAMARAJ NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "459",
+      "wardNo": "17",
+      "areaName": "NO:31,SIVAGURU ST,VASANTHAM NAGAR,KAMARAJ NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "460",
+      "wardNo": "17",
+      "areaName": "NO:2,DR.GARDEN ST,GOVARTHANAGIRI,PARUTHIPATTU",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "461",
+      "wardNo": "18",
+      "areaName": "NO:3332,B TYPE,TNHB,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "462",
+      "wardNo": "18",
+      "areaName": "NO:947,TNHB,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "463",
+      "wardNo": "21",
+      "areaName": "NO:9,VINAYAGAR KOIL ST,BHAKTAVACHAPURAM,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "464",
+      "wardNo": "23",
+      "areaName": "NO:5,O P RAMAN STREET,GANDHI NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "465",
+      "wardNo": "26",
+      "areaName": "NO:3,JEEVANANDAM 4TH ST,KAMARAJ NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "466",
+      "wardNo": "27",
+      "areaName": "NO:13,6TH STREET,LAZAR NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "467",
+      "wardNo": "36",
+      "areaName": "NO:168,DRIVERS COLONY,7TH STREET,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "468",
+      "wardNo": "36",
+      "areaName": "NO:168,DRIVERS COLONY,7TH STREET,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "469",
+      "wardNo": "36",
+      "areaName": "NO:168,DRIVERS COLONY,7TH STREET,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "470",
+      "wardNo": "45",
+      "areaName": "NO:24,4TH STREET,UZHAIPALLAR NAGAR,PATTABIRAM ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "471",
+      "wardNo": "48",
+      "areaName": "NO:10,4TH CROSS STREET,DEFENSE ENCLAVE,IAF,AVADI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "472",
+      "wardNo": "48",
+      "areaName": "NO:10TH CROSS ST,DEFENSE ENCLAVE AVADI(IAF SUB OFFICE)",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/18/20",
+      "end_on": "7/2/20",
+      "status": "true"
+   },
+   {
+      "areaId": "473",
+      "wardNo": "27",
+      "areaName": "NO: 6TH LAZAR NAGAR,AVADI ",
+      "patientStatus": "DEATH",
+      "start_on": "19.06.2020",
+      "end_on": "7/3/20",
+      "status": "true"
+   },
+   {
+      "areaId": "474",
+      "wardNo": "37",
+      "areaName": "NO: 40,DUARIKANNU NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "475",
+      "wardNo": "42",
+      "areaName": "NO: 9,SADNA ST,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "476",
+      "wardNo": "6",
+      "areaName": "NO:6,KIRUBA NAGAR,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "477",
+      "wardNo": "14",
+      "areaName": "NO:15B,SSB,SAI HOMES SAMATHRI ST,JOTHI NAGAR,ANNANUR",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "478",
+      "wardNo": "2",
+      "areaName": "NO:3B,SECOND ST,MICHEALS NAGAR,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "479",
+      "wardNo": "25",
+      "areaName": "NO:1,THIRUVIKA ST,KANNIGAPURAM,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "480",
+      "wardNo": "25",
+      "areaName": "NO:1,THIRUVIKA STREET,KANNIGAPURAM,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "481",
+      "wardNo": "25",
+      "areaName": "NO:1,THIRUVIKA ST,KANNIGAPURAM,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "482",
+      "wardNo": "27",
+      "areaName": "BHARATHIYAR ST,ANANDHA NAGAR,KAMARAJ NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "483",
+      "wardNo": "17",
+      "areaName": "NO:19,KUMARASAMY ST,VASANTHAM NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "484",
+      "wardNo": "17",
+      "areaName": "NO:5,VIVEKANANDHAN ST,RAJBHAI NAGAR,THILAI KUDIYIRUPPU,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "485",
+      "wardNo": "6",
+      "areaName": "NO:54/1,SM NAGAR,POLICE QUARTERS,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "486",
+      "wardNo": "6",
+      "areaName": "TSP 3,BARRALIYA HQ,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "487",
+      "wardNo": "14",
+      "areaName": "NO:5,MULLAI ST,SRI SAKTHI NAGAR,ANNANUR",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "488",
+      "wardNo": "11",
+      "areaName": "NO:21,NANNOOL ST,CLASSIC APPARTMENTS,SENTHIL NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "489",
+      "wardNo": "18",
+      "areaName": "NO:2947,LIG 2 TNHB,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "490",
+      "wardNo": "18",
+      "areaName": "NO:2947,LIG 2,TNHB,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "491",
+      "wardNo": "6",
+      "areaName": "NO:11,BLOCK 89,SM NAGAR,POLICE QUARTERS,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "492",
+      "wardNo": "16",
+      "areaName": "NO:8,BHARATHI ST,KOVARTHNAGIRI,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "493",
+      "wardNo": "18",
+      "areaName": "NO:3228,TNHB,AVADI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "494",
+      "wardNo": "6",
+      "areaName": "NO: 480B,GANGAI ST,POOMPZHIL NAGAR,SM NAGAR,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "495",
+      "wardNo": "17",
+      "areaName": "NO:31,SIVAGURU ST,VASANTHAM NAGAR,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "496",
+      "wardNo": "29",
+      "areaName": "NO:5,1ST CROSS ST,GANDHI NAGAR,AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/20/20",
+      "end_on": "7/4/20",
+      "status": "true"
+   },
+   {
+      "areaId": "497",
+      "wardNo": "16",
+      "areaName": "NO:69/70,RADHA ENCLAVE,3RD MAIN STREET,ASHOK NIRANJAN NAGAR,PARUTHIPATTU",
+      "patientStatus": "DISCHARGED",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "498",
+      "wardNo": "36",
+      "areaName": "NO.35 SUNDARAM COMPLEX ANNA NAGAR, PATTABIRAM AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "499",
+      "wardNo": "22",
+      "areaName": "SAI SAMARTH APRT. FLOT NO. 1 PANKAJA AVENUE KAVARAPALAYAM AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "500",
+      "wardNo": "8",
+      "areaName": "NO:1/8 NETHA STREET, TIRUMULLAIVOYAL AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "501",
+      "wardNo": "6",
+      "areaName": "55/7 POLICE QUARTERS SM NAGAR  AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "502",
+      "wardNo": "14",
+      "areaName": "NO 5 JOTHI NAGAR 6 TH STREET RAILWAY CARSHED COMPLEX, AVADI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "503",
+      "wardNo": "11",
+      "areaName": "17 VEERPANDIYAN STREET SENTHIL NAGAR  TIRUMULLAIVAYAL",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "504",
+      "wardNo": "29",
+      "areaName": "NO. 3 MAZHILAMPOO STREET TIRUVALLUVAR NAGAR AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "505",
+      "wardNo": "27",
+      "areaName": "NO 4 2 ND STREET PUDU NAGAR AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "506",
+      "wardNo": "8",
+      "areaName": "NO:3,9TH ST,THENDRAL NAGAR EAST,THIRUMULAIVOYAL",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "507",
+      "wardNo": "8",
+      "areaName": "NO:15B,NORTH MULLAI NAGAR,10TH ST,THIRUMULAIVOYAL",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "508",
+      "wardNo": "12",
+      "areaName": "NO:7,RAILWAY STATION ROAD,EAST CROSS ST,NETHAJI NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "509",
+      "wardNo": "13",
+      "areaName": "NO:6,DEVI NAGAR,ANNANUR",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "510",
+      "wardNo": "14",
+      "areaName": "NO: 20,44TH ST,D SECTOR,SIVA SAKTHI NAGAR,ANNANUR",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "511",
+      "wardNo": "44",
+      "areaName": "NO:6,PROFESSROR ST,CHOLAN NAGAR,PATTABIRAM ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/21/20",
+      "end_on": "7/5/20",
+      "status": "true"
+   },
+   {
+      "areaId": "512",
+      "wardNo": "48",
+      "areaName": "NO:50,SHABI NAGAR,IAF,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "513",
+      "wardNo": "13",
+      "areaName": "KUMARAN ST,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "514",
+      "wardNo": "13",
+      "areaName": "KUMARAN ST,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "515",
+      "wardNo": "21",
+      "areaName": "TSP,2 BATTALION HEAD QUARTRS,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "516",
+      "wardNo": "40",
+      "areaName": "NO:321/3,VALLAVAR NAGAR,7TH MAIN ROAD,1ST CROSS ST,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "517",
+      "wardNo": "9",
+      "areaName": "NO:20A,KK NAGAR,3RD ST,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "518",
+      "wardNo": "9",
+      "areaName": "NO:20A,KK NAGAR,3RD ST,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "519",
+      "wardNo": "9",
+      "areaName": "NO:20/A,3RD ST,KK NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "520",
+      "wardNo": "9",
+      "areaName": "NO:20A,KK NAGAR,3RD,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "521",
+      "wardNo": "16",
+      "areaName": "NO:H-302,SHANTHA TOWERS,PARUTHIPATTU",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "522",
+      "wardNo": "7",
+      "areaName": "NO:P3 105,VGN STEPHORD,THIRUMULAIVOYAL,THIRUMALAIVASAN NAGAR, THIRUMULAIVOYAL ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "523",
+      "wardNo": "12",
+      "areaName": "NO:106,CTH ROAD,THIRUMULAIVOYAL ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "524",
+      "wardNo": "34",
+      "areaName": "NO:1,CENTRAL AVENUE,WEST GANDHI NAGAR,NASAR MAIN ROAD,AVADI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "525",
+      "wardNo": "6",
+      "areaName": "NO:89, 1ST ST,SHANTHU NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "526",
+      "wardNo": "15",
+      "areaName": "NO:1,ERIKARAI ST,ANNANUR",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "527",
+      "wardNo": "18",
+      "areaName": "NO:66,PNSB,TNHB,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "528",
+      "wardNo": "6",
+      "areaName": "NO:310,CHELLAM CASTLES,POONGA ST,POOMPUZHIL NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "529",
+      "wardNo": "10",
+      "areaName": "NO:17,VENUGOPAL NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "530",
+      "wardNo": "47",
+      "areaName": "NO:13/A,VINAYAGAR KOIL ST,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "531",
+      "wardNo": "8",
+      "areaName": "THENDRAL NAGAR EAST,THIRUMULAIVOYAL",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "532",
+      "wardNo": "10",
+      "areaName": "NO:96,SCHOOL STREET,CHOLAMBEDU",
+      "patientStatus": "DEATH",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "533",
+      "wardNo": "18",
+      "areaName": "NO:2381,TNHB,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/22/20",
+      "end_on": "7/6/20",
+      "status": "true"
+   },
+   {
+      "areaId": "534",
+      "wardNo": "7",
+      "areaName": "NO # 85 3 RD MAIN ROAD, VENKATACHALLAM NAGAR, THIRUMULLAIVOYAL ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/23/20",
+      "end_on": "7/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "535",
+      "wardNo": "8",
+      "areaName": "NO: 3, KAMBAR ST, 14 THENDRAL NAGAR EAST, THIRUMULLAIVAOYIL",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/23/20",
+      "end_on": "7/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "536",
+      "wardNo": "12",
+      "areaName": "NO10,3RD STREET, SHANTHIPURAM, THIRUMALAVOIL,",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/23/20",
+      "end_on": "7/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "537",
+      "wardNo": "13",
+      "areaName": "NO:  1 SUBASH STREET DEVI NAGAR, THIRUVALLUR",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/23/20",
+      "end_on": "7/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "538",
+      "wardNo": "13",
+      "areaName": "NO:   1 SUBASH STREET DEVI NAGAR, ANNANUR, THIRUVALLUR - 600109",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/23/20",
+      "end_on": "7/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "539",
+      "wardNo": "13",
+      "areaName": "NO.57 4TH STREET VAISHNAVI NAGAR CH-109",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/23/20",
+      "end_on": "7/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "540",
+      "wardNo": "16",
+      "areaName": "NO, VGN AMNITY PARUTHIPATTU",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/23/20",
+      "end_on": "7/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "541",
+      "wardNo": "26",
+      "areaName": "NO 53, 8TH ST KAMARAJ NAGAR AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/23/20",
+      "end_on": "7/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "542",
+      "wardNo": "33",
+      "areaName": "NO:12 VIVEKANANDHAR CROSS ST NANDAVANAMETTUR KAMARAJNAGAR",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/23/20",
+      "end_on": "7/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "543",
+      "wardNo": "36",
+      "areaName": "NO-167 VENKATESAN NAGAR 7TH STREET DRIVERS COLONY PATTABIRAM CH-72",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/23/20",
+      "end_on": "7/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "544",
+      "wardNo": "42",
+      "areaName": "NO 563 CTH ROAD PATTABIRAM",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/23/20",
+      "end_on": "7/7/20",
+      "status": "true"
+   },
+   {
+      "areaId": "545",
+      "wardNo": "9",
+      "areaName": "NO. 2, SUDHA SAKTHI FLATS, 3RD RIGHT, THIRUMULLAIVOYAL, AVADI                                       ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "546",
+      "wardNo": "6",
+      "areaName": "NO.23, MULLAI STREET, PORUM POZHI NAGAR, AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "547",
+      "wardNo": "8",
+      "areaName": "NO.2, ABISHEK NAGAR, THIRUMULLAIVOYAL, AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "548",
+      "wardNo": "23",
+      "areaName": "TSP KOIL STREET, 2ND LANE AVADI              ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "549",
+      "wardNo": "36",
+      "areaName": "NO.6, VIVEKANANTHA AVENU, ANNA NAGAR, SORANJERI, PATTABIRAM, AVADI            ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "550",
+      "wardNo": "27",
+      "areaName": "NO.36, 5TH STREET, PUDU NAGAR, KAMARAJ NAGAR, AVADI                   ",
+      "patientStatus": "DEATH",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "551",
+      "wardNo": "8",
+      "areaName": "NO.39, B1, 1ST CROSS STREET, THENDRAN NAGAR WEST, THIRUMULLAIVOYAL, AVADI         ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "552",
+      "wardNo": "48",
+      "areaName": "NO.11, ANGAPPAN STREET, IAF, AVADI                                       ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "553",
+      "wardNo": "47",
+      "areaName": "NO.7, MOSQU STREET, PATTABIRAM, THIRUVALLUR, AVADI                                           ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "554",
+      "wardNo": "47",
+      "areaName": "NO.7, MOSQU STREET, PATTABIRAM, THIRUVALLUR, AVADI                                                  ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "555",
+      "wardNo": "18",
+      "areaName": "NO.125, PH ROAD, AVADI                 ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "556",
+      "wardNo": "5",
+      "areaName": "NO.149E, 6TH STREET, KALAINGAR NAGAR, KOVILPATHAGAI MAIN ROAD, AVADI                       ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "557",
+      "wardNo": "17",
+      "areaName": "NO.1-A, 2ND CROSS STREET, SRM GARDEN, AVADI                                                       ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "558",
+      "wardNo": "9",
+      "areaName": "NO.22 B1, 1ST STREET, MAIN ROAD AMBATHUR                                                    ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/24/20",
+      "end_on": "7/8/20",
+      "status": "true"
+   },
+   {
+      "areaId": "559",
+      "wardNo": "40",
+      "areaName": "NO.305/1B, CSI CHURCH STREET, THANDURAI, PATTABIRAM, AVADI     ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "560",
+      "wardNo": "16",
+      "areaName": "NO.4/1, ELUMALAI NAIKAR STREET, KAMARAJA NAGAR, AVADI          ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "561",
+      "wardNo": "22",
+      "areaName": "NO.106, GANGAI AMMAN KOVIL STREET, KAVARAPALAYAM, AVADI           ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "562",
+      "wardNo": "26",
+      "areaName": "NO.53, 8TH STREET, KAMARAJAR, AVADI                                        ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "563",
+      "wardNo": "18",
+      "areaName": "NO.2338, 7TH MAIN ROAD, 4TH SECTOR, TNHB, AVADI                                               ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "564",
+      "wardNo": "44",
+      "areaName": "NO.107, INDIRA SRINIVASAN STREET, CHOLAN NAGAR, PATTABIRAM, AVADI                                       ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "565",
+      "wardNo": "44",
+      "areaName": "NO.107, INDIRA SRINIVASAN STREET, CHOLAN NAGAR, PATTABIRAM, AVADI                                                      ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "566",
+      "wardNo": "18",
+      "areaName": "NO.240, HOUSING BOARD, AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "567",
+      "wardNo": "3",
+      "areaName": "NO.49, KOVIL PATHAGAI MAIN ROAD, 1ST FLOOR, AVADI                 ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "568",
+      "wardNo": "48",
+      "areaName": "NO.73, SABHI NAGAR, 1ST STREET, 3RD MUTHAPUDHUPET, AVADI ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "569",
+      "wardNo": "14",
+      "areaName": "NO.11, 44TH STREET, SIVASAKTHI NAGAR, ANNANUR                                        ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "570",
+      "wardNo": "14",
+      "areaName": "NO.44TH STREET, SIVASAKTHI NAGAR, ANNANUR, AVADI                              ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "571",
+      "wardNo": "14",
+      "areaName": "44TH STREET, SIVASAKTHI NAGAR, ANNANURM, AVADI                                 ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "572",
+      "wardNo": "16",
+      "areaName": "PLOT NO.3, 10TH STREET, ANBU NAGAR, GOVARTHANAGIRI, AVADI                                                                  ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "573",
+      "wardNo": "29",
+      "areaName": "NO.6, GANDHI, 1ST CROSS STREET, THIRUVALLUVAR NAGAR, AVADI                        ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "574",
+      "wardNo": "11",
+      "areaName": "NO.302-A, VANJINATHAN STREET, SENTHIL NAGAR, THIRUMULLAIVOYAL, AVADI                   ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "575",
+      "wardNo": "11",
+      "areaName": "NO.302-A, VANJINATHAN STREET, SENTHIL NAGAR, THIRUMULLAIVOYAL, AVADI                                  ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "576",
+      "wardNo": "11",
+      "areaName": "NO.302-A, VANJINATHAN STREET, SENTHIL NAGAR, THIRUMULLAIVOYAL, AVADI                                       ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "577",
+      "wardNo": "11",
+      "areaName": "NO.302-A, VANJINATHAN STREET, SENTHIL NAGAR, THIRUMULLAIVOYAL, AVADI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "578",
+      "wardNo": "45",
+      "areaName": "NO.13/50, ULAIPALAR NAGAR, 3RD STREET, PATTABIRAM, AVADI                                   ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "579",
+      "wardNo": "37",
+      "areaName": "NO.1, PALA STREET, SEKKADU, KAMARAJA NAGAR, AVADI                          ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "580",
+      "wardNo": "45",
+      "areaName": "NO.68, ANNA STREET, BABU NAGAR, PATTABIRAM, AVADI                                  ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "581",
+      "wardNo": "18",
+      "areaName": "NO.66, 3RD STREET, TNHB, AVADI             ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "582",
+      "wardNo": "15",
+      "areaName": "NO.5, 5TH STREET, ANNAI SATHYA NAGAR, THIRUMULLAIVOYAL, AVADI                                      ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "583",
+      "wardNo": "27",
+      "areaName": "NO.12/27, KVK SAMY STREET, PERIYAR NAGAR, AVADI                              ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/25/20",
+      "end_on": "7/9/20",
+      "status": "true"
+   },
+   {
+      "areaId": "584",
+      "wardNo": "44",
+      "areaName": "NO: 24,ANTHONIYAR ST,CHARLES NAGAR,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "585",
+      "wardNo": "36",
+      "areaName": "NO: 205/2,MULLAI ST,LAKSHMI NAGAR,ANNA NAGAR,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "586",
+      "wardNo": "13",
+      "areaName": "NO:6/28,10TH ST,NAGAMANI NAGAR,PATTABIRAM ",
+      "patientStatus": "DEATH",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "587",
+      "wardNo": "46",
+      "areaName": "NO:6,TVK CROSS ST,SASTHRI NAGAR,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "588",
+      "wardNo": "7",
+      "areaName": "NO:114,5TH ST,ANUGRAHARAM NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "589",
+      "wardNo": "19",
+      "areaName": "NO: 32/14,KAMBAR ST,GOWERIPET,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "590",
+      "wardNo": "36",
+      "areaName": "NO:3,2ND ST,ANNA NAGAR,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "591",
+      "wardNo": "38",
+      "areaName": "NO:25,MARIAMMAN KOIL ST,THANDURAI,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "592",
+      "wardNo": "36",
+      "areaName": "NO:21,6TH ANNA NAGAR,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "593",
+      "wardNo": "36",
+      "areaName": "NO:21,6TH ST,ANNA NAGAR,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "594",
+      "wardNo": "6",
+      "areaName": "NO:12,SHAMANTHI STREET,POOMPZHIL NAGAR,KOVILPATHAGAI,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "595",
+      "wardNo": "8",
+      "areaName": "NO:4B,VINAYAGAR NAGAR,SARASWATHI NAGAR EXTENSION,THIRUMULAIVOYAL",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "596",
+      "wardNo": "16",
+      "areaName": "NO:12,ASHOK NIRANJANAN NAGAR,PARUTHIPATTU,AVADI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "597",
+      "wardNo": "33",
+      "areaName": "NO:12,VIVEKANANDHA CROSS ST,NANDAVANAMETTUR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "598",
+      "wardNo": "7",
+      "areaName": "NO:BFA TEMPLE VIEW APARTMENT,NORTH MADA,2ND ST,THIRUMULAIVOYAL",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "599",
+      "wardNo": "7",
+      "areaName": "VGN AFFORDS BLOCK,THIRUMULAIVASAN,POOMPOZHIL NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "600",
+      "wardNo": "12",
+      "areaName": "NO: 4TH BLOCK,5TH ST,NETHAJI NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "DEATH",
+      "start_on": "6/26/20",
+      "end_on": "7/10/20",
+      "status": "true"
+   },
+   {
+      "areaId": "601",
+      "wardNo": "47",
+      "areaName": "NO  10 B KUMARAN STREET BHARATHIYAR NAGAR PATTABIRAM CHENNAI - 600 072",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "602",
+      "wardNo": "29",
+      "areaName": "53/16,ATHOORA STREET, KAMARAJ NAGAR, AVADI CHENNAI - 600 071",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "603",
+      "wardNo": "33",
+      "areaName": "NO:8, KUMARAN ST, NANDAVANA METTUR, AVADI CH +71",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "604",
+      "wardNo": "33",
+      "areaName": "NO:8, KUMARAN ST, NANDAVANA METTUR, AVADI CH +71",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "605",
+      "wardNo": "45",
+      "areaName": "6/68, ANNA STREET, BABU NAGAR, PATTABIRAM, CHENNAI 600072",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "606",
+      "wardNo": "17",
+      "areaName": "4/25, VETRI NAGAR EXTENSION, JB ESTATE, AVADI CHENNAI 600054",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "607",
+      "wardNo": "17",
+      "areaName": "4/25, VETRI NAGAR EXTENSION,JB ESTATE, AVADI CHENNAI 600054",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "608",
+      "wardNo": "8",
+      "areaName": "NO.4,  17TH CROSS STREET,  THENDRAL NAGAR EAST,  THIRUMULLAIVOYAL,  CHENNAI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "609",
+      "wardNo": "14",
+      "areaName": "NO.27, JOTHI NAGAR POWER LINE ROAD, AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "610",
+      "wardNo": "7",
+      "areaName": "NO:4, BFA TEMPLE VIEW APART, NORTH MADA ST, THIRUMULLAIVOYAL, CH -62",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "611",
+      "wardNo": "7",
+      "areaName": "NO:4, BFA TEMPLE VIEW APART, NORTH MADA ST, THIRUMULLAIVOYAL, CH -62",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "612",
+      "wardNo": "7",
+      "areaName": "NO:4, BFA TEMPLE VIEW APART, NORTH MADA ST, THIRUMULLAIVOYAL, CH -62",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "613",
+      "wardNo": "7",
+      "areaName": "NO:4, BFA TEMPLE VIEW APART, NORTH MADA ST, THIRUMULLAIVOYAL, CH -62",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "614",
+      "wardNo": "7",
+      "areaName": "NO:4, BFA TEMPLE VIEW APART, NORTH MADA ST, THIRUMULLAIVOYAL, CH -62",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "615",
+      "wardNo": "7",
+      "areaName": "NO:4, BFA TEMPLE VIEW APART, NORTH MADA ST, THIRUMULLAIVOYAL, CH -62",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "616",
+      "wardNo": "6",
+      "areaName": "74/23,SM NAGAR,POLICE QUARTERS600062",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "617",
+      "wardNo": "4",
+      "areaName": "17,MASUDI ST,KOVILPATHAGAI,AVADI 600063",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "618",
+      "wardNo": "8",
+      "areaName": "23 VOC 3RD ST SARAWATHI NAGAR 11TH CROSS THIRUMULLAIVOYAL600062",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "619",
+      "wardNo": "13",
+      "areaName": "NO:67,AND BUILDERS G2,SUBASH ST,SRI DEVI VAISHNAVI NAGAR",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "620",
+      "wardNo": "6",
+      "areaName": "NO:12,SATHYA MOORTHY NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "621",
+      "wardNo": "6",
+      "areaName": "NO:12,SATHYA MOORTHY NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "622",
+      "wardNo": "17",
+      "areaName": "NO:25/5,24TH ST,2ND CROSS ST,JB ESTATE,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "623",
+      "wardNo": "36",
+      "areaName": "NO:1,VIVEKANANDAR ST,RAJIV GANDHI NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "624",
+      "wardNo": "26",
+      "areaName": "NO:20,CHINNAMMAL NAGAR,1ST ST,KUMARAN NAGAR WEST,KAMARAJ NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "625",
+      "wardNo": "18",
+      "areaName": "NO:11,RAMDASS NAGAR,AVADI",
+      "patientStatus": "DEATH",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "626",
+      "wardNo": "34",
+      "areaName": "NO:10/4,PULLAVAR ST,GOVINDAN NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/27/20",
+      "end_on": "7/11/20",
+      "status": "true"
+   },
+   {
+      "areaId": "627",
+      "wardNo": "3",
+      "areaName": "RAMESH CRBF,5TH ST,RAJIV GANDHI NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "628",
+      "wardNo": "4",
+      "areaName": "NO:95,NEW MEDU ST,KOILPATHAGAI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "629",
+      "wardNo": "6",
+      "areaName": "NO:12A BLOCK,SM NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "630",
+      "wardNo": "7",
+      "areaName": "NO:28,2ND ST,SIVASANKARAPURAM,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "631",
+      "wardNo": "7",
+      "areaName": "NO:28,2ND STREET,SIVASANKARAPURAM,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "632",
+      "wardNo": "7",
+      "areaName": "NO:15,4TH ST,SUBRAMINYAN NAGAR,THIRUMULAIVOYAL ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "633",
+      "wardNo": "8",
+      "areaName": "NO:23,VOC  3RD ST,11TH CROSS LANE,SARASWATHI NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "634",
+      "wardNo": "8",
+      "areaName": "NO:27,VOC ST,SARASWATHI NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "635",
+      "wardNo": "8",
+      "areaName": "NO:255,A-7TH CROSS ST,SARASWATHI NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "636",
+      "wardNo": "10",
+      "areaName": "NO:5,PILLAYAR KOIL ST,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "637",
+      "wardNo": "12",
+      "areaName": "NO:12,ADIYAPATHAM ST,SOZHAN NAGAR,RAILWAY CARSHED COMPLEX",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "638",
+      "wardNo": "13",
+      "areaName": "NO:1,1ST ST,VAISHNAVAI NAGAR",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "639",
+      "wardNo": "13",
+      "areaName": "5TH BATALLION,VAISHNAVI NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "640",
+      "wardNo": "19",
+      "areaName": "NO:33,KALLUKADAI ST,GOWERIPETTAI,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "641",
+      "wardNo": "26",
+      "areaName": "NO:5,ANDAVAR ST,2ND CROSS PERIYAR NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "642",
+      "wardNo": "33",
+      "areaName": "NO:8,KUMARAN ST,NANDAVANAMETTUR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "643",
+      "wardNo": "33",
+      "areaName": "NO:98,KUMARAN ST,NANDAVANMETTUR,KAMARAJ NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "644",
+      "wardNo": "41",
+      "areaName": "NO:E10/2,POLICE ATRS,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "645",
+      "wardNo": "33",
+      "areaName": "NO:18,KATTABOMMAN ST,KAMRAJ NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/28/20",
+      "end_on": "7/12/20",
+      "status": "true"
+   },
+   {
+      "areaId": "646",
+      "wardNo": "35",
+      "areaName": "NO:5,EAST 1ST CROSS ST,DHANALAKSHMI NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "647",
+      "wardNo": "39",
+      "areaName": "NO:6/129,2ND MAIN ROAD,GOPALAPURAM,EAST PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "648",
+      "wardNo": "9",
+      "areaName": "NO:23,AMD APARTMENTS,MANIKANDAPURAM,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "649",
+      "wardNo": "9",
+      "areaName": "NO:23,AMD APARTMENTS,MANIKANDAPURAM,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "650",
+      "wardNo": "9",
+      "areaName": "NO:12,KUMARAN ST,MANIKANDAPURAM ",
+      "patientStatus": "DEATH",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "651",
+      "wardNo": "30",
+      "areaName": "NO:91/7,SM NAGAR,POLICE QUARTERS,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "652",
+      "wardNo": "30",
+      "areaName": "NO:24,THILAGAR STREET,SRI DEVI NAGAR,KAMARAJ NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "653",
+      "wardNo": "17",
+      "areaName": "NO:37,2ND MAIN ROAD,JB ESTATE,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "654",
+      "wardNo": "17",
+      "areaName": "NO:37,2ND MAIN ROAD,JB ESTATE,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "655",
+      "wardNo": "8",
+      "areaName": "NO:21,PERUMAL KOVIL ST,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "656",
+      "wardNo": "36",
+      "areaName": "NO:40,RAJIV GANDHI NAGAR MAIN ROAD,SEKKADU,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "657",
+      "wardNo": "36",
+      "areaName": "NO:40,RAJIV GANDHI NAGAR MAIN ROAD,SEKKADU,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "658",
+      "wardNo": "32",
+      "areaName": "NO:7,THIRUVALLUR ST,NANDAVANMETTUR",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "659",
+      "wardNo": "19",
+      "areaName": "NO:2,ESWARAN KOIL ST,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "660",
+      "wardNo": "35",
+      "areaName": "NO:2,2ND ST,DHANLAKSHMI NAGAR,AVADI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "661",
+      "wardNo": "11",
+      "areaName": "PLOT NO:86,DOOR NO:13,KABILAR ST,SENTHIL NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "662",
+      "wardNo": "9",
+      "areaName": "NO:9/19,MANIKANDAPURAM,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "663",
+      "wardNo": "26",
+      "areaName": "NO:6,2ND ST,RAM NAGAR,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "664",
+      "wardNo": "36",
+      "areaName": "NO:112,ARJUN ST,MORDERN CITY,PATTABIRAM",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "665",
+      "wardNo": "36",
+      "areaName": "NO:205,MULLAI ST,LAKSHMI NAGAR,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "666",
+      "wardNo": "11",
+      "areaName": "NO:202,PATEL ST,SENTHIL NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "667",
+      "wardNo": "11",
+      "areaName": "NO:202,PATEL STREET,SENTHIL NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "668",
+      "wardNo": "16",
+      "areaName": "NO:1,THENNATHOIAR ST,KAMARAJ NAGAR",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "669",
+      "wardNo": "25",
+      "areaName": "NO:23,TVK ST,KANNIGAPURAM,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "670",
+      "wardNo": "43",
+      "areaName": "NO:26,2ND ST,CHARAM,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "671",
+      "wardNo": "9",
+      "areaName": "NO:13/1,KANNIMOOLA GANAPATHI NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "672",
+      "wardNo": "11",
+      "areaName": "NO:2A,MOTHER TERESA ST,SRI NAGAR COLONY,SM NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "673",
+      "wardNo": "4",
+      "areaName": "5TH ST,INDIRA NAGAR,KOVILPATHAGAI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "674",
+      "wardNo": "17",
+      "areaName": "NO:11/13, RAJA CHODRI ST,GOVARTHAGIRI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/29/20",
+      "end_on": "7/13/20",
+      "status": "true"
+   },
+   {
+      "areaId": "675",
+      "wardNo": "9",
+      "areaName": "NO:20/A, THAMARAI NAGAR,1ST ST,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "676",
+      "wardNo": "9",
+      "areaName": "NO:20A,THAMARAI NAGAR,1ST ST,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "677",
+      "wardNo": "7",
+      "areaName": "NO:24, 5TH ST,VENKATACHALAM NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "678",
+      "wardNo": "48",
+      "areaName": "NO:53,ANNA COMPLEX,MITTANAMALLE",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "679",
+      "wardNo": "5",
+      "areaName": "PACHA STREET,KOVILPATHAGAI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "680",
+      "wardNo": "6",
+      "areaName": "NO:306,PRAVEEN SADANAM POONGA ST,POOMPOZHIL NAGAR,CHENNAI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "681",
+      "wardNo": "32",
+      "areaName": "NO:2,BUTHAR ST,NANDAVANAMETTUR,KAMARAJ NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "682",
+      "wardNo": "35",
+      "areaName": "NO:15,GANGA ST,SEDHU NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "683",
+      "wardNo": "8",
+      "areaName": "NO:B4,4TH CROSS ST,THENDRAL NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "684",
+      "wardNo": "8",
+      "areaName": "NO:595,BEAULLAH ST,SARASWATHI NAGAR,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "685",
+      "wardNo": "36",
+      "areaName": "NO:36,VENKATESAN NAGAR",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "686",
+      "wardNo": "36",
+      "areaName": "NO:36,VENKATESAN NAGAR",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "687",
+      "wardNo": "36",
+      "areaName": "NO: 36,VENKATESAN NAGAR,",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "688",
+      "wardNo": "36",
+      "areaName": "NO:36,VENKATESAN NAGAR,",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "689",
+      "wardNo": "15",
+      "areaName": "NO:7,MSS FLAT MALLI ST,JOTHI NAGAR,ANNANUR ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "690",
+      "wardNo": "14",
+      "areaName": "NO:6,7TH AVENUE,SIVA SAKTHI NAGAR",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "691",
+      "wardNo": "26",
+      "areaName": "NO:5,ANDAVAR ST,PERIYAR NAGAR,AVADI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "692",
+      "wardNo": "36",
+      "areaName": "NO:63,8TH ST,ANNA NAGAR,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "693",
+      "wardNo": "13",
+      "areaName": "NO:4,ANNAI THERSA STREET,ESI ,ANNA NAGAR,AVADI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "694",
+      "wardNo": "17",
+      "areaName": "AVADI COLLECTOR OFFICE",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "695",
+      "wardNo": "20",
+      "areaName": "TYPE V 13/3,HVF ESTATE,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "696",
+      "wardNo": "5",
+      "areaName": "NO:8,KARNAN ST,KOVILPATHGAI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "697",
+      "wardNo": "5",
+      "areaName": "NO: 8,KARNAM ST,KOVILPATHAGAI AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "698",
+      "wardNo": "5",
+      "areaName": "NO: 8,KARNAM ST,KOVILPATHAGAI,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "699",
+      "wardNo": "18",
+      "areaName": "NO: 153,PILLAYAR  KOIL ST,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "700",
+      "wardNo": "36",
+      "areaName": "NO:7/3,MEENAKSHI ST,NETHAJI NAGAR,PATTABIRAM",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "701",
+      "wardNo": "11",
+      "areaName": "THILAKAR ST,SENTHIL NAGAR,THIRUMULAIVOYAl",
+      "patientStatus": "DEATH ",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "702",
+      "wardNo": "9",
+      "areaName": ")NO:15,NATESAN ST,THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "6/30/20",
+      "end_on": "7/14/20",
+      "status": "true"
+   },
+   {
+      "areaId": "703",
+      "wardNo": "15",
+      "areaName": "NO:4,ROJA ST,JOTHI NAGAR,ANNAUR",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "704",
+      "wardNo": "30",
+      "areaName": "NO:3,ARUNAKERINATHAN ST,KAMARAJ NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "705",
+      "wardNo": "30",
+      "areaName": "NO: 138,4TH ST,KAMRAJ NAGAR,NEAR RCM SCHOOL,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "706",
+      "wardNo": "30",
+      "areaName": "NO:138,4TH ST,KAMRAJ NAGAR,NEAR RCM SCHOOL,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "707",
+      "wardNo": "23",
+      "areaName": "2ND ST,KASTURIBAI NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "708",
+      "wardNo": "33",
+      "areaName": "NO:8,KUMARAN ST,NANDAVANAMETTUR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "709",
+      "wardNo": "4",
+      "areaName": "NO:14,KALAIGNAR NAGAR,KOVILPATHAGAI,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "710",
+      "wardNo": "7",
+      "areaName": "NO:24,5TH ST,VENKATACHALAM NAGAR,THIRUMULAIVOYAL,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "711",
+      "wardNo": "17",
+      "areaName": "No:7, MULLAI ST, AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "712",
+      "wardNo": "36",
+      "areaName": "No: 23, THRUVASAGAM SALAI, PATTABIRAM ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "713",
+      "wardNo": "12",
+      "areaName": "(2A, 1ST CROSS ST,17TH MAIN ROAD, THIRUMULAIVOYAL",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "714",
+      "wardNo": "9",
+      "areaName": "NO: 20/A, THAMARAI NAGAR, 1ST ST, THIRUMULAIVOYAL",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "715",
+      "wardNo": "26",
+      "areaName": "NO:18/3A, MGR SALAI, KUMARAN NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "716",
+      "wardNo": "32",
+      "areaName": "NO:2A,DEVI KARUMARIYAMMAN KOVIL 2ND CROSS ST,KAMARAJ NAGAR,AVADI ",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "717",
+      "wardNo": "7",
+      "areaName": "NO:R3,301, VGN FLATS, THIRUMULAIVOYAL,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "718",
+      "wardNo": "7",
+      "areaName": "NO:R3,301,VGN FLATS, THIRUMULAIVOYAL,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "719",
+      "wardNo": "17",
+      "areaName": "NO:15,YAMUNAI ST,VASANTHAM NAGAR,AVADI",
+      "patientStatus": "HOME ISOLATION",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   },
+   {
+      "areaId": "720",
+      "wardNo": "23",
+      "areaName": "NO:5,RAMANUJAM ST,3RD CROSS GANDHI NAGAR,AVADI",
+      "patientStatus": "UNDER TREATMENT",
+      "start_on": "7/1/20",
+      "end_on": "7/15/20",
+      "status": "true"
+   }
+]
