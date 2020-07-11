@@ -77,7 +77,11 @@
         "isShopping": false,
         "isPaid": false,
         "distance": "Near 2km",
+<<<<<<< HEAD
         "imgUrl": "https://content3.jdmagicbox.com/comp/chennai/35/044p7012535/catalogue/vaishnavi-shrine-thirumullaivoyal-chennai-temples-1oqma1y.jpg",
+=======
+        "imgUrl": "https://www.dreamstime.com/stock-image-hindu-temple-image1922731",
+>>>>>>> bb4cb9ccf631d829f8546d2cec0bf15cbc2250f6
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
