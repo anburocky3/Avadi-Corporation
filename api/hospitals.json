@@ -1,0 +1,27 @@
+[{
+        "placeId": "1",
+        "title": "Sri Sudharsanam Hospital Pvt Ltd ",
+        "subtitle": "Multi-Speciality Hospital",
+        "imgUrl": "https://content3.jdmagicbox.com/comp/chennai/m9/044pxx44.xx44.170114000500.s3m9/catalogue/dr-s-aravind-sri-sudharsanam-hospital-avadi-chennai-general-physician-doctors-1n6ezvcml9.jpg",
+        "openingHrs": "Open 24 x 7",
+        "withinPlace": true,
+        "contactNo": " 04426550355",
+        "address": "No 6/P C 2-1, TNHB Road, Avadi, Chennai - 600054, Near Municipality Office",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+    },
+    {
+        "placeId": "2",
+        "title": "Meenakshi Hospital",
+        "subtitle": "Multi-Speciality Hospital",
+        "imgUrl": "https://lh3.googleusercontent.com/-cKS3ezGCxqE/XJg1ksSQzvI/AAAAAAAAWqA/uGXEiu_FR_UDyoPNpg9VEIF2VTQZGNqvgCLIBGAYYCw/w1080-h608-p-k-no-v0/",
+        "openingHrs": "Open 24 x 7",
+        "withinPlace": true,
+        "contactNo": "04465687864",
+        "address": "No.205, N. M. Road, Avadi, Chennai - 600 054.",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+    }
+]

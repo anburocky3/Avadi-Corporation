@@ -1,0 +1,27 @@
+[{
+        "placeId": "1",
+        "title": "T6 Avadi Police Station",
+        "subtitle": "General complaints",
+        "imgUrl": "https://pbs.twimg.com/media/CTqpuuEUwAAG0j4.jpg",
+        "openingHrs": "Open 24 x 7",
+        "withinPlace": true,
+        "contactNo": " 04426554750",
+        "address": "206, Nehru Bazar Rd, Nehru Bazaar, Vivekananda Nagar, TNHB Mig V Block, Avadi",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+    },
+    {
+        "placeId": "2",
+        "title": "Magalir (Women's) Police Station",
+        "subtitle": "Crime againts women and child",
+        "imgUrl": "https://w.ndtvimg.com/elc/2017/09/20210826/10241-1.jpg",
+        "openingHrs": "Open 24 x 7",
+        "withinPlace": true,
+        "contactNo": "NIL",
+        "address": "Vivekananda Nagar, TNHB Mig V Block, Avadi, Tamil Nadu 600071",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+    }
+]
