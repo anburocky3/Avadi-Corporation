@@ -866,7 +866,7 @@
       "areaId": "97",
       "wardNo": "19",
       "areaName": "NO.24, GOWRIPETTAI,AVADI.",
-      "patientStatus": "DEATH       ",
+      "patientStatus": "DEATH",
       "start_on": "5/11/20",
       "end_on": "25.05.2020",
       "status": "true"
@@ -1136,7 +1136,7 @@
       "areaId": "127",
       "wardNo": "15",
       "areaName": "NO:7,7TH STREET,ANNAI SATHYA NAGAR THIRUMULAIVOYIL",
-      "patientStatus": "DEATH                      ",
+      "patientStatus": "DEATH ",
       "start_on": "5/15/20",
       "end_on": "5/29/20",
       "status": "true"
@@ -1181,7 +1181,7 @@
       "areaId": "132",
       "wardNo": "26",
       "areaName": "MKC MULTISPECIALITY HOSP. NO:28, 10TH STREET, KAMRAJ NAGAR, NEAR RCM SCHOOL, AVADI",
-      "patientStatus": "DEATH                 ",
+      "patientStatus": "DEATH   ",
       "start_on": "5/15/20",
       "end_on": "5/29/20",
       "status": "true"
@@ -1262,7 +1262,7 @@
       "areaId": "141",
       "wardNo": "8",
       "areaName": "AMBEDAKAR NAGAR,THIRUMULAIVOYAL CHENNAI-62",
-      "patientStatus": "DEATH           ",
+      "patientStatus": "DEATH    ",
       "start_on": "5/17/20",
       "end_on": "5/31/20",
       "status": "true"
@@ -1397,7 +1397,7 @@
       "areaId": "156",
       "wardNo": "48",
       "areaName": "NO:1,RAJIV NAGAR,1ST STREET,MUTHAPUDUPET,IAF,AVADI ",
-      "patientStatus": "DEATH             ",
+      "patientStatus": "DEATH      ",
       "start_on": "5/21/20",
       "end_on": "6/4/20",
       "status": "true"

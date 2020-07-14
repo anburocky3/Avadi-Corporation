@@ -1,5 +1,5 @@
 [{
-        "placeId": "1",
+        "placeId": 1,
         "title": "T6 Avadi Police Station",
         "subtitle": "General complaints",
         "imgUrl": "https://pbs.twimg.com/media/CTqpuuEUwAAG0j4.jpg",
@@ -12,7 +12,7 @@
         "status": true
     },
     {
-        "placeId": "2",
+        "placeId": 2,
         "title": "Magalir (Women's) Police Station",
         "subtitle": "Crime againts women and child",
         "imgUrl": "https://w.ndtvimg.com/elc/2017/09/20210826/10241-1.jpg",
